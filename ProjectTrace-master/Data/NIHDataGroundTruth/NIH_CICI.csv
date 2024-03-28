@@ -1,0 +1,670 @@
+"NIH Spending Categorization","Project Terms","Title","Public Health Relevance","Administering IC","Application ID","Award Notice Date","FOA","Project Number","Type","Activity","IC","Serial Number","Support Year","Suffix","Program Official Information","Project Start Date","Project End Date","Study Section","Subproject Number","Contact PI Person ID","Contact PI / Project Leader","Other PI or Project Leader(s)","Congressional District","Department","Primary DUNS","Primary UEI","DUNS Number","UEI","FIPS","Latitude","Longitude","Organization ID (IPF)","Organization Name","Organization City","Organization State","Organization Type","Organization Zip","Organization Country","ARRA Indicator","Budget Start Date","Budget End Date","CFDA Code","Funding Mechanism","Fiscal Year","Total Cost","Total Cost (Sub Projects)","Funding IC(s)","Direct Cost IC","InDirect Cost IC","NIH COVID-19 Response","Abstract","Total Cost IC",
+"No NIH Category available","2019-nCoV;Address;Adopted;Attitude;Behavior;Black Populations;COVID-19;COVID-19 disparity;COVID-19 morbidity;COVID-19 severity;COVID-19 surveillance;COVID-19 susceptibility;COVID-19 testing;COVID-19 vaccination;Censuses;Clinical Sciences;Collaborations;Communities;Community Health Aides;Comparison arm;Country;County;Data;Development;Disease;Economics;Education and Outreach;Effectiveness;Elements;Foundations;Hispanic Populations;Hospitalization;Individual;Infection;Influentials;Information Networks;Infrastructure;Intervention;Light;Machine Learning;Medical;Methods;Minority Groups;Misinformation;Monitor;Not Hispanic or Latino;Pathway Analysis;Pattern;Persons;Phase;Population;RADx Underserved Populations;Resources;Rural Minority;Science;Services;Severe Acute Respiratory Syndrome;Social Network;Source;South Texas;Techniques;Testing;Texas;Time;Translational Research;Trust;Underserved Population;Use Effectiveness;Vaccination;Vaccines;Variant;Vulnerable Populations;Waxes;Work;adaptive intervention;analytical method;antigen test;behavior test;clinical center;community engagement;community partnership;comorbidity;comparison group;contextual factors;design;disparities in morbidity;experience;health disparity;improved;innovation;interest;mortality;mortality disparity;novel;novel strategies;pandemic disease;phase 3 study;population based;racial diversity;randomized trial;rapid testing;risk mitigation;rural setting;social;social computing;social health determinants;social interventions;social media;surveillance data;testing access;therapy design;trend;wastewater surveillance","Addressing COVID-19 Testing Disparities in Vulnerable Populations Using a Community JITAI (Just in Time Adaptive Intervention) Approach: RADxUP Phase III","This
+regions
+SARS-CoV-2
+networks
+study will leverage longstanding and academic-community engaged partnership in three
+of Texas to use robust sources of COVID-19 surveillance data, strategies to increase
+testing, vaccination, and mitigation behaviors, and the feasibility of using social
+to improve SARS-CoV-2 COVID-19 testing and vaccination.","NCATS","10617103","10/31/2022 12:00:00 AM","RFA-OD-22-006","1U01TR004355-01","1","U01","TR","004355","01"," ","MERCHANT, CAROL","12/1/2022 12:00:00 AM","11/30/2024 12:00:00 AM","Special Emphasis Panel[ZRG1-PSE-E(50)]"," ","2401885","FERNANDEZ, MARIA EULALIA","BAUER, CICI ; FUJIMOTO, KAYO ; MCGAHA, PAUL ; MCPHERSON, DAVID D; REININGER, BELINDA ","18","PSYCHOLOGY","800771594","ZUFBNVZ587D4","800771594","ZUFBNVZ587D4","US","29.703025","-95.403303","578417","UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON","HOUSTON","TX","SCHOOLS OF PUBLIC HEALTH","770305400","UNITED STATES","N","12/1/2022 12:00:00 AM","11/30/2023 12:00:00 AM","310","Non-SBIR/STTR","2023","1096924"," ","OD","746951","349973","C6","Vulnerable populations including those with medical comorbidities, people living in rural
+settings and minorities experience significant COVID-19 disparities. Additionally, Hispanics and
+Blacks are significantly more likely to be infected and hospitalized when compared to White,
+Non-Hispanics. The proposed study builds on RADx-UP Phases I & Phase II work reaching
+these populations in three racially diverse regions: Houston/Harris County, South Texas, and
+Northeast Texas to increase SARS-CoV-2 testing, vaccination, and risk mitigation behaviors to
+reduce COVID-19 morbidity, mortality, and inequities among underserved populations in Texas.
+The proposed study leverages the partnerships and resources of the Center for Clinical and
+Translational Science (CCTS) including long-standing community partnerships. Phase III will
+include mixed methods and community-engaged approaches to inform adaptation of our
+existing (and the development of new) multilevel intervention messages, materials and
+strategies with a focus on increasing rapid SARS-CoV-2 testing. It will also include a broader
+focus on addressing the social determinants of health (SDOH) and an emphasis on combating
+misinformation. Innovative elements of the proposed study include testing a novel approach to
+optimize community engagement that uses real-time data to inform intervention adaptation and
+implementation, using advances in social computing and machine learning to better understand
+patterns of misinformation in social media, and using multilevel social network analysis
+techniques to increase intervention agility, intensity, and reach. This project has three aims:
+Aim 1) Expand existing sources of population-based COVID-19 surveillance data to quantify
+infection, testing and vaccination trends in three Texas regions, and use innovative methods to
+inform and evaluate the proposed interventions; Aim 2) Adapt, implement and evaluate the
+multilevel community just-in-time adaptive intervention (MC-JITAI) developed in Phase II to
+increase SARS-CoV-2 testing, mitigation behaviors, and COVID-19 vaccination, among
+underserved and vulnerable populations in three regions of Texas; and Aim 3) Determine the
+feasibility and effectiveness of leveraging multilevel social networks to improve SARS-CoV-2
+testing and COVID-19 vaccination, in three regions of Texas.","1096924",
+"No NIH Category available"," ","The roles of EBV-specific T cells in response to checkpoint blockade immunotherapy of EBV-driven nasopharyngeal carcinoma","Project Narrative
+Nasopharyngeal Carcinoma (NPC) is a common form of head and neck cancer that is driven by Epstein Barr
+Virus (EBV) and especially prevalent in South East Asia at a rate of 15-50 cases per 100,000 people per year.
+In this project, we will study two NPC cohorts, a 51-participant new-diagnosis cohort and a 50-participant
+longitudinally sampled Phase II clinical trial cohort treated with the combination of anti-PD-1+anti-CTLA-4
+(Ipilimumab+Nivolimumab) checkpoint blockade immunotherapy (cICI). With the goal better understanding the
+role of peripheral EBV-specific and other NPC-associated T cell responses in nasopharyngeal carcinoma (NPC)
+immunopathology, we will use a variety of single analysis methods applied to blood and tumor tissue to test the
+hypotheses that EBV-specific T cells contribute to tumor control elicited by cICI and that the phenotypic and
+clonal characteristics/dynamics of peripheral EBV-specific T cells can be useful as indicators of clinical outcomes
+for NPC patients.","NCI","10601371","5/27/2022 12:00:00 AM","PA-20-185","6R01CA264646-02","6","R01","CA","264646","02"," ","SOMMERS, CONNIE L","8/1/2021 12:00:00 AM","7/31/2026 12:00:00 AM","Clinical Oncology Study Section[CONC]"," ","8740105","NEWELL, EVAN ","Not Applicable","07","Unavailable","806433145","TJFZLPP6NYL6","806433145","TJFZLPP6NYL6","US"," "," ","10068583","FRED HUTCHINSON CANCER CENTER","Seattle","WA","Other Domestic Non-Profits","98109","UNITED STATES","N","4/1/2022 12:00:00 AM","7/31/2022 12:00:00 AM","395","Non-SBIR/STTR","2021","279150"," ","NCI","158608","120542"," ","Project Summary/Abstract
+Nasopharyngeal carcinoma (NPC) is an Epstein-Barr virus (EBV)-driven malignancy that is endemic to East and
+Southeast Asia. The overall 5-year survival rate for endemic NPC is only 51%, which represents an unmet clinical
+need. While NPC tumors are known to be infected with EBV and express PD-L1, little is known about the role of
+EBV-specific T cells in the control of NPC and anti-PD-1 therapy has shown a low rate of efficacy (ORR ~20%).
+The goal of this study is to better understand the role of EBV-specific T cell responses in NPC immunopathology
+and immunotherapeutic response. We will test the specific hypotheses that: 1. EBV-specific T cells contribute to
+tumor control elicited by combination anti-PD-1 and anti-CTLA-4 checkpoint blockade immunotherapy, and 2.
+that the phenotypic and clonal characteristics/dynamics of peripheral EBV-specific T cells can be useful as
+indicators of clinical outcomes for NPC patients. To test these hypotheses, we will leverage our access to two
+Singaporean NPC patient cohorts: Cohort 1. A 51-patient cohort of new-diagnosis NPC for which viably frozen
+PBMCs and archival FFPE tissues are available and Cohort 2. A 50-patient cohort participating in a phase II
+trial (NCT03097939 - National Cancer Centre Singapore) testing the combination of Ipilumimab and
+Nivolumimab (Ipi.+Nivo.) immunotherapy with longitudinally collected PBMCs and tissue biopsies. Recently
+published preliminary analysis (AACR 2020) from this clinical trial shows that combined Ipi.+Nivo. therapy is safe
+and achieved durable responses in recurrent and metastatic NPC patients and identified a negative association
+between circulating EBV-DNA levels and response. In addition, preliminary analysis of new-diagnosis NPC
+patient peripheral blood samples from Cohort 1 show associations between certain phenotypic profiles of CD8+
+T cells and clinical parameters such as EBV-DNA levels. Therefore, in Aim 1. we will investigate the clinical
+relevance of these preliminarily identified NPC-associated CD8+ T cell phenotypes. In addition to in-depth single
+cell transcriptional, functional TCR sequence profiling of these cells, cellular imaging, transcriptional profiling and
+bulk TCR sequencing of patient-matched tumor will allow discovery of novel associations between peripheral T
+cells and the tumor microenvironment. In Aim 2., we will characterize EBV-specific T cell responses in the NPC
+periphery and tumor microenvironment during combination Ipi.+Nivo. immunotherapy treatment to identify novel
+associations between the phenotypic profiles of EBV-specific T cells and immunotherapeutic response. In Aim
+3., we will investigate T cell clonal dynamics associated with treatment induced changes to the NPC-specific
+immune response by comparing the TCR clonal diversity in peripheral blood and tumor biopsy samples from
+different stages of treatment. Overall, characterization of EBV-specific T cells phenotypes in the NPC periphery
+and the tumor using multiple cutting-edge approaches will not only improve our understanding of the NPC
+immune landscape, but also potentially identify clinically relevant EBV-specific T cell phenotypes that could be
+tested in future NPC immunotherapy trials.","279150",
+"No NIH Category available","Address;Affect;Anxiety;Attention;Attenuated;Brain;Cancer Survivor;Cisplatin;Clinical Research;Cognition;Data;Development;Disease;Dose;Enzymes;FDA approved;Female;G-Protein-Coupled Receptors;Hippocampus (Brain);IL18 gene;Impaired cognition;Inflammasome;Inflammation;Inflammatory;Interleukin-1 beta;Intervention;Investigation;Learning;Letters;Ligands;Link;Measurement;Measures;Mediating;Medical;Medicine;Memory;Mental Depression;Metabolism;Molecular;Motor Activity;Multiple Sclerosis;Mus;Neoplasm Metastasis;Neuraxis;Neuroglia;Nitrogen;Oral Administration;Paclitaxel;Patients;Peroxonitrite;Pharmaceutical Preparations;Pharmacology;Platinum;Prefrontal Cortex;Prevention;Preventive;Process;Production;Proteins;Quality of life;Reactive Oxygen Species;Reporting;Role;SOD2 gene;Safety;Signal Transduction;Sphingolipids;Sphingosine-1-Phosphate Receptor;Stress;Superoxides;Synapses;TLR4 gene;Testing;Therapeutic;Therapeutic Intervention;Time;antagonist;antitumor effect;base;cancer therapy;cell growth;chemobrain;chemotherapy;cognitive function;cognitive testing;cytokine;drug repurposing;edg-1 Protein;genetic approach;insight;interdisciplinary approach;long-term sequelae;male;marenostrin;mitochondrial dysfunction;molecular targeted therapies;neoplastic cell;neuroinflammation;neurotoxic;neurotoxicity;new therapeutic target;nitration;novel;novel therapeutic intervention;prevent;receptor;response;side effect;sphingosine 1-phosphate;targeted treatment;taxane;time use;tumor","Fingolimod and Ozanimod for the treatment and prevention of chemobrain","Chemotherapy-induced cognitive impairment (CICI) is a major, severe long-lasting neurotoxic side effect of
+widely used chemotherapeutics that significantly impacts the quality of life of cancer survivors. The mechanisms
+are largely unknown and there are no FDA approved medicines. We present the first evidence that activation
+of the sphingosine 1-phosphate receptor subtype 1 (S1PR1) is germane to CICI and identify a novel
+therapeutic approach with S1PR1 antagonists already approved for other indications (fingolimod, ozanimod).","NCI","10485515","9/2/2022 12:00:00 AM","PAR-19-325","1R01CA261979-01A1","1","R01","CA","261979","01","A","ST GERMAIN, DIANE","9/2/2022 12:00:00 AM","6/30/2027 12:00:00 AM","Special Emphasis Panel[ZRG1-BDCN-Q(55)R]"," ","8526936","SALVEMINI, DANIELA ","FARR, SUSAN A","01","PHARMACOLOGY","050220722","JNBLLTBTLLD8","050220722","JNBLLTBTLLD8","US","38.633829","-90.213138","7915401","SAINT LOUIS UNIVERSITY","SAINT LOUIS","MO","SCHOOLS OF MEDICINE","631032006","UNITED STATES","N","9/2/2022 12:00:00 AM","6/30/2023 12:00:00 AM","395","Non-SBIR/STTR","2022","442415"," ","NCI","292023","150392"," ","Chemotherapy-induced cognitive impairment (chemobrain; CICI) is a common neurotoxicity affecting >50%
+of patients8 treated with widely used chemotherapeutics, including taxanes (e.g., paclitaxel)9-11 and platinum-
+based agents (e.g., cisplatin).8,9,12 There are no FDA-approved interventions. Mitochondrial dysfunction and
+neuroinflammation in the central nervous system (CNS) are mechanisms thought to drive CICI, but how these
+are triggered remains elusive.6,13-15 Our preliminary studies implicate CNS alterations of sphingolipid metabolism
+and increased sphingosine-1-phosphate (S1P) formation, offering a novel target for therapeutic intervention with
+S1P1 receptor subtype (S1PR1) antagonists.
+ In preliminary studies of cisplatin-induced cognitive impairment, S1P increased in the prefrontal cortex (PFC)
+and hippocampus (key centers of cognition) where S1PR1 was expressed. This was associated with
+mitochondrial superoxide dismutase (MnSOD) nitration and inactivation and activation of the NOD-, LRR- and
+pyrin domain-containing protein 3 (NLRP3) inflammasome. MnSOD tightly regulates peroxynitrite (PN)-mediated
+nitroxidative stress,16,17 but is also inactivated >80% when nitrated by PN.18-20 This PN-mediated process has
+been linked to mitochondrial dysfunction in many disease states.17-19,21-23 NLRP3 is critical for interleukin-1β
+(IL1β) and IL18 maturation,24-26 powerful inflammatory cytokines in cognitive impairment.27-31 Systemic
+administration of the orally bioavailable, CNS penetrant S1PR1 functional antagonist FTY72032 blocked MnSOD
+nitration/inactivation, NLRP3 activation and attenuated CICI without adversly affecting locomotor activity
+(preliminary data). These findings are very exciting, since FTY720 (fingolimod) is FDA-approved for multiple
+sclerosis with good safety profiles.33-36 How chemotherapy triggers S1P/S1PR1 signaling is not known, but
+preliminary data suggest glial cell toll-like receptor 4 (TLR4) as a likely link.
+We hypothesize that chemotherapy engages TLR4 to drive S1P/S1PR1 signaling in the CNS that contributes
+to CICI through PN-mediated mitochondrial dysfunction and NLRP3-mediated neuroinflammation (Fig. 1). We
+will test this hypothesis in naïve and tumor-bearing male and female mice. In Aim 1, we will investigate
+S1P/S1PR1 signaling in the CNS, temporal and cellular distribution of S1PR1 and test whether S1PR1
+antagonists prevent and reverse CICI without interfering with antitumor effects. In Aim 2, we will use
+pharmacological and genetic approaches to define the role of TLR4 in sphingolipid metabolism and S1P
+formation during CICI and test the impact of S1PR1 inhibition on mitochondrial dysfunction and NLRP3-driven
+neuroinflammation. S1PR1 antagonists are not expected to interfere with chemotherapy efficacy; we and others
+have shown that these drugs block tumor cell growth, inflammation and metastasis.37-43 Our studies are
+anticipated to provide paradigm-shifting insights that establish S1PR1 in CICI and expedite translational
+investigation of medicines that are already FDA approved (fingolimod/ozanimod) as adjunct to chemotherapy.","442415",
+"No NIH Category available","Adoptive Immunotherapy;Aftercare;American Association of Cancer Research;Archives;Biopsy;Biopsy Specimen;Blood;Blood specimen;CD8-Positive T-Lymphocytes;Cancer Center;Cells;Characteristics;Clinical;Clinical Trials;Clone Cells;Cohort Analysis;Cytometry;Data;Diagnosis;Enrollment;Epstein-Barr Virus-Related Malignant Neoplasm;Far East;Freezing;Future;Gene Expression;Gene Expression Profile;Gene Expression Profiling;Genetic Transcription;Goals;HLA-DR Antigens;Head and Neck Cancer;Human Herpesvirus 4;Immune;Immune response;Immunohistochemistry;Immunologic Surveillance;Immunologics;Immunotherapeutic agent;Immunotherapy;Lymphocyte;Malignant Neoplasms;Mediating;Memory;Methods;Nasopharynx Carcinoma;Outcome;Participant;Patients;Pattern;Peptide/MHC Complex;Peripheral;Peripheral Blood Mononuclear Cell;Persons;Phase II Clinical Trials;Phenotype;Population;Prevalence;Publishing;Recurrence;Role;Sampling;Singapore;Southeastern Asia;Stains;Survival Rate;T cell receptor repertoire sequencing;T cell response;T-Cell Activation;T-Cell Receptor;T-Lymphocyte;T-cell receptor repertoire;Testing;Time;Tissues;Tumor Tissue;Tumor-Infiltrating Lymphocytes;Validation;Virus Diseases;anti-CTLA4;anti-PD-1;anti-PD1 therapy;base;cancer diagnosis;cellular imaging;clinically relevant;cohort;exhaust;genetic signature;immune checkpoint blockade;immunopathology;immunotherapy trials;improved;insight;ipilimumab;multiple omics;novel;peripheral blood;phase II trial;programmed cell death ligand 1;protein expression;response;single cell sequencing;tumor;tumor microenvironment;viral DNA","The roles of EBV-specific T cells in response to checkpoint blockade immunotherapy of EBV-driven nasopharyngeal carcinoma","Project Narrative
+Nasopharyngeal Carcinoma (NPC) is a common form of head and neck cancer that is driven by Epstein Barr
+Virus (EBV) and especially prevalent in South East Asia at a rate of 15-50 cases per 100,000 people per year.
+In this project, we will study two NPC cohorts, a 51-participant new-diagnosis cohort and a 50-participant
+longitudinally sampled Phase II clinical trial cohort treated with the combination of anti-PD-1+anti-CTLA-4
+(Ipilimumab+Nivolimumab) checkpoint blockade immunotherapy (cICI). With the goal better understanding the
+role of peripheral EBV-specific and other NPC-associated T cell responses in nasopharyngeal carcinoma (NPC)
+immunopathology, we will use a variety of single analysis methods applied to blood and tumor tissue to test the
+hypotheses that EBV-specific T cells contribute to tumor control elicited by cICI and that the phenotypic and
+clonal characteristics/dynamics of peripheral EBV-specific T cells can be useful as indicators of clinical outcomes
+for NPC patients.","NCI","10457484","8/10/2022 12:00:00 AM","PA-20-185","5R01CA264646-03","5","R01","CA","264646","03"," ","SOMMERS, CONNIE L","8/1/2021 12:00:00 AM","7/31/2026 12:00:00 AM","Clinical Oncology Study Section[CONC]"," ","8740105","NEWELL, EVAN ","Not Applicable","07","Unavailable","806433145","TJFZLPP6NYL6","806433145","TJFZLPP6NYL6","US"," "," ","10068583","FRED HUTCHINSON CANCER CENTER","Seattle","WA","Other Domestic Non-Profits","98109","UNITED STATES","N","8/1/2022 12:00:00 AM","7/31/2023 12:00:00 AM","395","Non-SBIR/STTR","2022","603444"," ","NCI","387084","216360"," ","Project Summary/Abstract
+Nasopharyngeal carcinoma (NPC) is an Epstein-Barr virus (EBV)-driven malignancy that is endemic to East and
+Southeast Asia. The overall 5-year survival rate for endemic NPC is only 51%, which represents an unmet clinical
+need. While NPC tumors are known to be infected with EBV and express PD-L1, little is known about the role of
+EBV-specific T cells in the control of NPC and anti-PD-1 therapy has shown a low rate of efficacy (ORR ~20%).
+The goal of this study is to better understand the role of EBV-specific T cell responses in NPC immunopathology
+and immunotherapeutic response. We will test the specific hypotheses that: 1. EBV-specific T cells contribute to
+tumor control elicited by combination anti-PD-1 and anti-CTLA-4 checkpoint blockade immunotherapy, and 2.
+that the phenotypic and clonal characteristics/dynamics of peripheral EBV-specific T cells can be useful as
+indicators of clinical outcomes for NPC patients. To test these hypotheses, we will leverage our access to two
+Singaporean NPC patient cohorts: Cohort 1. A 51-patient cohort of new-diagnosis NPC for which viably frozen
+PBMCs and archival FFPE tissues are available and Cohort 2. A 50-patient cohort participating in a phase II
+trial (NCT03097939 - National Cancer Centre Singapore) testing the combination of Ipilumimab and
+Nivolumimab (Ipi.+Nivo.) immunotherapy with longitudinally collected PBMCs and tissue biopsies. Recently
+published preliminary analysis (AACR 2020) from this clinical trial shows that combined Ipi.+Nivo. therapy is safe
+and achieved durable responses in recurrent and metastatic NPC patients and identified a negative association
+between circulating EBV-DNA levels and response. In addition, preliminary analysis of new-diagnosis NPC
+patient peripheral blood samples from Cohort 1 show associations between certain phenotypic profiles of CD8+
+T cells and clinical parameters such as EBV-DNA levels. Therefore, in Aim 1. we will investigate the clinical
+relevance of these preliminarily identified NPC-associated CD8+ T cell phenotypes. In addition to in-depth single
+cell transcriptional, functional TCR sequence profiling of these cells, cellular imaging, transcriptional profiling and
+bulk TCR sequencing of patient-matched tumor will allow discovery of novel associations between peripheral T
+cells and the tumor microenvironment. In Aim 2., we will characterize EBV-specific T cell responses in the NPC
+periphery and tumor microenvironment during combination Ipi.+Nivo. immunotherapy treatment to identify novel
+associations between the phenotypic profiles of EBV-specific T cells and immunotherapeutic response. In Aim
+3., we will investigate T cell clonal dynamics associated with treatment induced changes to the NPC-specific
+immune response by comparing the TCR clonal diversity in peripheral blood and tumor biopsy samples from
+different stages of treatment. Overall, characterization of EBV-specific T cells phenotypes in the NPC periphery
+and the tumor using multiple cutting-edge approaches will not only improve our understanding of the NPC
+immune landscape, but also potentially identify clinically relevant EBV-specific T cell phenotypes that could be
+tested in future NPC immunotherapy trials.","603444",
+"No NIH Category available","Address;Adopted;Affect;Area;Authorization documentation;Autopsy;Biometry;COVID-19 pandemic;Clinical;Code;Collaborations;Communities;Country;Data;Data Science;Data Set;Death Records;Decision Making;Detection;Early Diagnosis;Effectiveness of Interventions;Ensure;Epidemic;Epidemiology;Etiology;Evaluation;Flare;Fostering;Future;Geography;Goals;Government;Hospitals;Individual;Intervention;Knowledge;Link;Location;Massachusetts;Measures;Medicine;Modeling;National Institute of Drug Abuse;Outcome;Output;Overdose;Pattern;Policies;Population;Population Surveillance;Positioning Attribute;Prevention;Public Health;Public Health Informatics;Public Health Practice;Research;Resource Allocation;Risk;Role;Societal Factors;Source;Strategic Planning;Technical Expertise;Time;Toxicology;Update;Validation;Visualization;Visualization software;Vulnerable Populations;Work;addiction;base;community intervention;community partnership;community-level factor;dashboard;data warehouse;drug abuse prevention;effectiveness evaluation;evidence base;experience;healing;implementation science;improved;innovation;insight;intervention effect;member;models and simulation;novel;opioid epidemic;opioid mortality;opioid overdose;overdose death;overdose prevention;population health;predictive modeling;prescription monitoring program;prevent;public health intervention;response;simulation;social;social health determinants;socioeconomics;spatiotemporal;success;tool","Predict to Prevent: Dynamic Spatiotemporal Analyses of Opioid Overdose to Guide Pre-Emptive Public Health Responses","Predict to Prevent: Dynamic Spatiotemporal Analyses of Opioid Overdose to Guide
+ Pre-Emptive Public Health Responses
+NARRATIVE
+Novel spatiotemporal forecasting models that rely on massively linked administrative data are needed to
+forecast future opioid overdose spikes and assess public health intervention success. Guided by the social
+ecological model, we plan to develop a comprehensive approach to identify individual, interpersonal,
+community and societal factors that contribute to opioid overdose, efficiently detect overdose hotspots, and
+develop dynamic forecasting models for timely prediction and prevention of future opioid overdose epidemics.
+We will disseminate blueprints, visualization tools, and code to other jurisdictions to facilitate replication of our
+approach.","NIDA","10444263","5/6/2022 12:00:00 AM","PAR-19-368","1R01DA054267-01A1","1","R01","DA","054267","01","A","ZUR, JULIA BETH","5/15/2022 12:00:00 AM","3/31/2027 12:00:00 AM","Community Influences on Health Behavior Study Section[CIHB]"," ","11971732","STOPKA, THOMAS J","BAUER, CICI ","07","PUBLIC HEALTH & PREV MEDICINE","039318308","C1F5LNUF7W86","039318308","C1F5LNUF7W86","US","42.3498","-71.06149","8422704","TUFTS UNIVERSITY BOSTON","BOSTON","MA","SCHOOLS OF MEDICINE","021111901","UNITED STATES","N","5/15/2022 12:00:00 AM","3/31/2023 12:00:00 AM","279","Non-SBIR/STTR","2022","760041"," ","NIDA","562197","197844"," ","Predict to Prevent: Dynamic Spatiotemporal Analyses of Opioid Overdose to Guide
+ Pre-Emptive Public Health Responses
+PROJECT SUMMARY/ABSTRACT
+ Opioid overdose (OD) fatalities have reached crisis levels in all socioeconomic and geographic communities
+in the US. By utilizing a first-of-its-kind statewide Public Health Data Warehouse (PHD) with multiple
+linked administrative datasets and state-of-the-art Bayesian spatiotemporal models, we are in a unique
+position to fill in the fundamental gaps in the field’s ability to rapidly identify current OD patterns,
+predict future OD epidemics, and evaluate the effectiveness of public health and clinical interventions.
+In Massachusetts (MA), the State Legislature enacted policy in 2015 that provided authorization to the MA
+Department of Public Health (MDPH) to develop a massively linked administrative dataset to allow public
+health officials and policymakers to better understand the extent of and contributors to the opioid OD epidemic.
+The PHD Warehouse, representing 98% of the MA population, currently links data from 25+ distinct sources
+(e.g., death records, all-payer claims, post-mortem toxicology, hospital discharges, and the prescription
+monitoring program). Supported by strong preliminary studies demonstrating the power of the PHD and our
+strong partnership with MDPH, we aim to develop a new population health analytic framework to support opioid
+OD control in MA that can be generalizable to other parts of the country. Our Specific Aims are to: 1) Develop
+a Bayesian multilevel spatiotemporal model to identify individual, interpersonal, community, and societal
+factors that contribute to opioid OD; 2) develop an efficient Bayesian spatiotemporal model to identify time-
+space OD clusters, and extend the model to construct a dynamic predictive model; and, 3) evaluate and
+predict policy and intervention effects through model-based simulation studies to provide practical guidance
+and decision-making support to public health officials. Aims 1, 2 and 3 can be easily adopted and reproduced
+by users in other public health jurisdictions and sectors to foster cross-sector, cross-agency opioid OD control.
+Our approach is innovative due to the use of PHD and sophisticated Bayesian spatiotemporal modeling
+approaches. The proposed study is highly significant, because it is conceptualized to improve current and
+future public health practice, facilitating data-driven and evidence-based implementation science interventions
+in the locations at greatest risk and at the time when they are most needed. Our results can immediately and
+significantly influence opioid OD prevention policies and practices, guiding pre-emptive public health and
+clinical responses. We will develop our visualization tools, analytical approaches, and related code, in
+collaboration with MDPH and our Community Advisory Board (CAB), to enhance PHD capabilities and improve
+dissemination of findings. Our tools, approaches, and code will also be made available for national
+dissemination, providing paradigm shifting approaches to address the opioid crisis. Our research directly
+addresses NIDA’s goal to “Develop new and improved strategies to prevent drug use and its consequences.”","760041",
+"No NIH Category available","Adverse effects;Afferent Neurons;Aftercare;Axon;Brain;Cancer Control;Cancer Patient;Cancer Survivor;Cells;Chemotherapy-induced peripheral neuropathy;Cisplatin;Clinical Data;Clinical Research;Clinical Trials;Cognitive deficits;Cytosol;Data;Development;Disease;Drug Design;Ensure;Epigenetic Process;FDA approved;Goals;HDAC6 gene;Health;Heat-Shock Proteins 90;Histone Deacetylase;Histone Deacetylase Inhibitor;Histones;Impaired cognition;Impairment;Intervention;Malignant Neoplasms;Mediating;Mitochondria;Modeling;Mus;Neurodegenerative Disorders;Neuroimmune;Neurons;Nociceptors;Outcome;Oxidative Stress;Pathway interactions;Patients;Peripheral;Peripheral Nerves;Permeability;Pharmaceutical Preparations;Population;Prevention;Proteins;Public Health;Quality of life;Reporting;Research;Resolution;Solid;Spinal Ganglia;Synaptosomes;T-Lymphocyte;Testing;Time;Toxic effect;Tubulin;United States Food and Drug Administration;anti-cancer;antitumor effect;cancer therapy;chemobrain;chemotherapy;chemotherapy induced neuropathy;clinical application;improved;inhibitor;innovation;mitochondrial dysfunction;neuroinflammation;neurotoxic;neurotoxicity;new therapeutic target;novel;novel strategies;novel therapeutics;pre-clinical;preclinical study;prevent;repaired;restoration;side effect;survivorship;treatment effect;tumor;white matter","PQ12 Targeting HDAC6 for Chemotherapy-Induced Neuropathy and Chemobrain","PROJECT NARRATIVE
+The proposed research is relevant and significant for public health because we anticipate identifying HDAC6 as
+a novel therapeutic target for prevention as well as reversal of two frequent neurotoxic side effects of cancer
+treatment: chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive
+impairment (CICI). CIPN and CICI significantly reduce quality of life during treatment of patients with cancer
+and often last long into survivorship. Clinical trials to examine the effect of HDAC6 inhibitors on tumor control
+are already underway, and therefore rapid clinical application of HDAC6 inhibitors to manage CIPN and CICI
+upon succesful completion of this project should be realistic.","NCI","10376221","8/18/2022 12:00:00 AM","RFA-CA-17-017","5R01CA227064-05","5","R01","CA","227064","05"," ","ST GERMAIN, DIANE","5/22/2018 12:00:00 AM","4/30/2024 12:00:00 AM","ZCA1-SRB-A(J1)R"," ","12153444","GRACE, PETER M","SHEPHERD, ANDREW JOHN","09","INTERNAL MEDICINE/MEDICINE","800772139","S3GMKS8ELA16","800772139","S3GMKS8ELA16","US","29.706319","-95.397195","578407","UNIVERSITY OF TX MD ANDERSON CAN CTR","HOUSTON","TX","HOSPITALS","770304009","UNITED STATES","N","5/1/2022 12:00:00 AM","4/30/2023 12:00:00 AM","395","Non-SBIR/STTR","2022","1"," ","NCI","1","0"," ","SUMMARY
+ Chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive impairment
+(CICI) are major side effects of cancer treatment that frequently persist long into survivorship. No drugs have
+been approved by the US Food and Drug Administration to prevent and/or adequately manage CIPN and CICI.
+This application aims at filling this void. A concern when designing drugs to manage CIPN and CICI is that
+they should not impair tumor control. Ideally, agents to control these neurotoxicities should also enhance
+tumor control. Recent findings indicate that inhibitors of histone deacetylase 6 (HDAC6) meet these goals.
+ HDAC6 de-acetylates non-histone cytosolic proteins like tubulin without inducing epigenetic changes.
+Recent preclinical and clinical data show promise for HDAC6 inhibitors to improve tumor control. We
+recently showed that HDAC6 inhibition fully reverses established CIPN in cisplatin-treated mice. This was
+associated with restoration of mitochondrial health in sensory neurons. Preliminary data indicate that co-
+administration of HDAC6 inhibitors protect against CIPN by preventing mitochondrial damage. Additional
+preliminary data indicate that HDAC6 inhibition also reverses established CICI and associated brain
+mitochondrial damage.
+ Our hypothesis is that HDAC6 inhibition prevents and reverses CIPN and CICI in mice with or without
+tumors by targeting mitochondrial health, oxidative stress, and downstream neuroimmune pathways. We will
+test our hypothesis in 3 specific aims: Aim1: Determine the capacity of HDAC6 inhibitors to prevent CIPN in
+mice with or without tumors. Aim 2: Determine the effect of HDAC6 inhibition on established CIPN. Aim 3:
+Determine whether the beneficial effects of HDAC6 inhibition extend to CICI. In aims 1 and 3, we will
+investigate the effect of HDAC6 inhibitors on tumor control and ensure that HDAC6 inhibitors also prevent
+CIPN and CICI in the presence of a tumor.
+ This study is innovative because we propose to target HDAC6 activity in neurons to control
+neurotoxicities while at the same time enhancing cancer control. The expected outcome is significant because
+it will identify HDAC6 inhibition as a realistic novel approach to control CIPN and CICI. This will increase the
+quality of life of millions of cancer patients and survivors. Clinical trials to examine the effect of HDAC6
+inhibitors on tumor control are already underway, and therefore the expected results of this project should
+rapidly convince clinicians to examine the value of HDAC6 inhibitors for management of both CIPN and CICI.
+Identification of HDAC6 inhibitors as drugs that can be used after completion of chemotherapy to completely
+resolve established CIPN and CICI will be of great benefit for cancer survivors suffering every day from
+these persistent neurotoxicities.","1",
+"Cancer; Cancer Genomics; Clinical Research; Clinical Trials and Supportive Activities; Dental/Oral and Craniofacial Disease; Genetics; Human Genome; Immunotherapy; Infectious Diseases","Adoptive Immunotherapy;Aftercare;American Association of Cancer Research;Archives;Biopsy;Biopsy Specimen;Blood;Blood specimen;CD8-Positive T-Lymphocytes;Cancer Center;Cells;Characteristics;Clinical;Clinical Trials;Clone Cells;Cohort Analysis;Cytometry;Data;Diagnosis;Enrollment;Epstein-Barr Virus-Related Malignant Neoplasm;Far East;Freezing;Future;Gene Expression;Gene Expression Profile;Gene Expression Profiling;Genetic Transcription;Goals;HLA-DR Antigens;Head and Neck Cancer;Human Herpesvirus 4;Immune;Immune response;Immunohistochemistry;Immunologic Surveillance;Immunologics;Immunotherapeutic agent;Immunotherapy;Lymphocyte;Malignant Neoplasms;Mediating;Memory;Methods;Nasopharynx Carcinoma;Outcome;Participant;Patients;Pattern;Peptide/MHC Complex;Peripheral;Peripheral Blood Mononuclear Cell;Phase II Clinical Trials;Phenotype;Population;Prevalence;Publishing;Recurrence;Role;Sampling;Singapore;Southeastern Asia;Stains;Survival Rate;T cell receptor repertoire sequencing;T cell response;T-Cell Activation;T-Cell Receptor;T-Lymphocyte;T-cell receptor repertoire;Testing;Time;Tissues;Tumor Tissue;Tumor-Infiltrating Lymphocytes;Validation;Virus Diseases;anti-CTLA4;anti-PD-1;anti-PD1 therapy;base;cancer diagnosis;cellular imaging;clinically relevant;cohort;exhaust;genetic signature;immune checkpoint blockade;immunopathology;immunotherapy trials;improved;insight;ipilimumab;multiple omics;novel;peripheral blood;phase II trial;programmed cell death ligand 1;protein expression;response;single cell sequencing;tumor;tumor microenvironment;viral DNA","The roles of EBV-specific T cells in response to checkpoint blockade immunotherapy of EBV-driven nasopharyngeal carcinoma","Project Narrative
+Nasopharyngeal Carcinoma (NPC) is a common form of head and neck cancer that is driven by Epstein Barr
+Virus (EBV) and especially prevalent in South East Asia at a rate of 15-50 cases per 100,000 people per year.
+In this project, we will study two NPC cohorts, a 51-participant new-diagnosis cohort and a 50-participant
+longitudinally sampled Phase II clinical trial cohort treated with the combination of anti-PD-1+anti-CTLA-4
+(Ipilimumab+Nivolimumab) checkpoint blockade immunotherapy (cICI). With the goal better understanding the
+role of peripheral EBV-specific and other NPC-associated T cell responses in nasopharyngeal carcinoma (NPC)
+immunopathology, we will use a variety of single analysis methods applied to blood and tumor tissue to test the
+hypotheses that EBV-specific T cells contribute to tumor control elicited by cICI and that the phenotypic and
+clonal characteristics/dynamics of peripheral EBV-specific T cells can be useful as indicators of clinical outcomes
+for NPC patients.","NCI","10281126","7/27/2021 12:00:00 AM","PA-20-185","1R01CA264646-01","1","R01","CA","264646","01"," ","SOMMERS, CONNIE L","8/1/2021 12:00:00 AM","3/31/2022 12:00:00 AM","Clinical Oncology Study Section[CONC]"," ","8740105","NEWELL, EVAN ","Not Applicable","07","Unavailable","078200995","HMSNCM57QNR5","078200995","HMSNCM57QNR5","US","47.627342","-122.331593","861001","FRED HUTCHINSON CANCER RESEARCH CENTER","SEATTLE","WA","Research Institutes","981094433","UNITED STATES","N","8/1/2021 12:00:00 AM","3/31/2022 12:00:00 AM","395","Non-SBIR/STTR","2021","355610"," ","NCI","236376","119234"," ","Project Summary/Abstract
+Nasopharyngeal carcinoma (NPC) is an Epstein-Barr virus (EBV)-driven malignancy that is endemic to East and
+Southeast Asia. The overall 5-year survival rate for endemic NPC is only 51%, which represents an unmet clinical
+need. While NPC tumors are known to be infected with EBV and express PD-L1, little is known about the role of
+EBV-specific T cells in the control of NPC and anti-PD-1 therapy has shown a low rate of efficacy (ORR ~20%).
+The goal of this study is to better understand the role of EBV-specific T cell responses in NPC immunopathology
+and immunotherapeutic response. We will test the specific hypotheses that: 1. EBV-specific T cells contribute to
+tumor control elicited by combination anti-PD-1 and anti-CTLA-4 checkpoint blockade immunotherapy, and 2.
+that the phenotypic and clonal characteristics/dynamics of peripheral EBV-specific T cells can be useful as
+indicators of clinical outcomes for NPC patients. To test these hypotheses, we will leverage our access to two
+Singaporean NPC patient cohorts: Cohort 1. A 51-patient cohort of new-diagnosis NPC for which viably frozen
+PBMCs and archival FFPE tissues are available and Cohort 2. A 50-patient cohort participating in a phase II
+trial (NCT03097939 - National Cancer Centre Singapore) testing the combination of Ipilumimab and
+Nivolumimab (Ipi.+Nivo.) immunotherapy with longitudinally collected PBMCs and tissue biopsies. Recently
+published preliminary analysis (AACR 2020) from this clinical trial shows that combined Ipi.+Nivo. therapy is safe
+and achieved durable responses in recurrent and metastatic NPC patients and identified a negative association
+between circulating EBV-DNA levels and response. In addition, preliminary analysis of new-diagnosis NPC
+patient peripheral blood samples from Cohort 1 show associations between certain phenotypic profiles of CD8+
+T cells and clinical parameters such as EBV-DNA levels. Therefore, in Aim 1. we will investigate the clinical
+relevance of these preliminarily identified NPC-associated CD8+ T cell phenotypes. In addition to in-depth single
+cell transcriptional, functional TCR sequence profiling of these cells, cellular imaging, transcriptional profiling and
+bulk TCR sequencing of patient-matched tumor will allow discovery of novel associations between peripheral T
+cells and the tumor microenvironment. In Aim 2., we will characterize EBV-specific T cell responses in the NPC
+periphery and tumor microenvironment during combination Ipi.+Nivo. immunotherapy treatment to identify novel
+associations between the phenotypic profiles of EBV-specific T cells and immunotherapeutic response. In Aim
+3., we will investigate T cell clonal dynamics associated with treatment induced changes to the NPC-specific
+immune response by comparing the TCR clonal diversity in peripheral blood and tumor biopsy samples from
+different stages of treatment. Overall, characterization of EBV-specific T cells phenotypes in the NPC periphery
+and the tumor using multiple cutting-edge approaches will not only improve our understanding of the NPC
+immune landscape, but also potentially identify clinically relevant EBV-specific T cell phenotypes that could be
+tested in future NPC immunotherapy trials.","355610",
+"Acquired Cognitive Impairment; Biotechnology; Brain Disorders; Cancer; Hematology; Lymphatic Research; Lymphoma; Neurosciences; Orphan Drug; Prevention; Rare Diseases","4 hydroxynonenal;Address;Animal Model;Antibodies;Antineoplastic Agents;Antioxidants;Apoptotic;BCL2 gene;Biochemical;Blood - brain barrier anatomy;Blood Circulation;Brain;Brain Injuries;Cancer Patient;Cancer Survivor;Cells;Choline;Clinical;Clinical Trials;Cognition;Confusion;Cytotoxic Chemotherapy;Development;Doxorubicin;Drug Targeting;Drug usage;Etiology;Exposure to;Family;Functional disorder;Future;Generations;Goals;Immune;Impaired cognition;Impairment;In Vitro;Inflammatory;Injury;Intrathecal Chemotherapy;Knockout Mice;Link;Lymphoma;Lymphoma cell;Magnetic Resonance Spectroscopy;Mediating;Mediator of activation protein;Memory;Mitochondria;Modeling;Molecular;Mus;Neuraxis;Neuronal Injury;Oxidation-Reduction;Oxidative Stress;Pathology;Patients;Peripheral;Pharmaceutical Preparations;Plasma;Prevention;Production;Proteins;Proteomics;Publishing;Quality of life;Radiation;Reaction;Reactive Oxygen Species;Recommendation;Research;Respiration;Risk;Role;SOD2 gene;Symptoms;Syndrome;Systemic Therapy;TNF gene;Technology;Testing;Therapeutic Effect;Therapeutic Uses;Tissues;Toxic effect;Toxicity due to chemotherapy;Treatment Efficacy;United States;Vision;anti-cancer;antioxidant enzyme;blood-brain barrier permeabilization;cancer cell;cancer therapy;chemobrain;chemotherapy;cytokine;cytotoxic;design;executive function;experience;extracellular vesicles;improved;in vivo;inhibitor/antagonist;insight;macrophage;mimetics;mitochondrial dysfunction;multitask;neuron loss;nitration;novel;prevent;prototype;specific biomarkers;targeted treatment;tumor","(PQ9)A redox-mediated mechanism of chemotherapy-induced cognitive impairment","Project Narrative
+Chemotherapy-induced cognitive impairment (CICI) is a serious threat to the quality of life. This project is
+designed to identify practice-changing therapy by establishing a new paradigm, which recognizes that ROS is
+the initiator of CICI, caused by both cytotoxic and targeted drugs. Results from these studies will lead to very
+concrete information potentially offering a specific course of action to develop effective clinical approaches
+specifically designed to prevent CICI without reducing chemotherapeutic efficacy.","NCI","10216188","7/23/2021 12:00:00 AM","RFA-CA-15-008","5R01CA217934-05","5","R01","CA","217934","05"," ","CHEN, WEIWEI","9/15/2017 12:00:00 AM","7/31/2023 12:00:00 AM","ZCA1-RTRB-E(M2)"," ","3147341","ST CLAIR, DARET K","BONDADA, SUBBARAO ; BUTTERFIELD, D. ALLAN","06","PHARMACOLOGY","939017877","H1HYA8Z1NTM5","939017877","H1HYA8Z1NTM5","US","38.040959","-84.505885","2793601","UNIVERSITY OF KENTUCKY","LEXINGTON","KY","SCHOOLS OF MEDICINE","405260001","UNITED STATES","N","8/1/2021 12:00:00 AM","7/31/2023 12:00:00 AM","395","Non-SBIR/STTR","2021","492343"," ","NCI","321793","170550"," ","Project Summary
+This application addresses the Provocative Question 9: ""What are the molecular and/or cellular mechanisms
+that underlie the development of cancer therapy-induced severe adverse sequelae?"" focusing on
+Chemotherapy-induced cognitive impairments (CICI). CICI is now a recognized toxicity syndrome that includes
+loss of executive function (confusion; memory issues), inability to multitask, and impaired intellectual
+reasoning. While CICI caused by central nervous system (CNS)-directed therapies (such as radiation and
+intrathecal chemotherapy) is readily understood, the mechanisms underlying a critical and shared toxicity of
+chemotherapy that occurs after systemic cancer treatment with drugs that did not direct at the brain, are
+unclear. The number of patients at risk for CICI from systemic therapy far exceeds the number of patients
+exposed to CNS therapy, but little is known about the mechanisms mediating the effect of systemic therapy on
+CICI, and there is no clear vision of how to prevent this condition. We have previously shown that generation
+of reactive oxygen species (ROS) by cytotoxic chemotherapeutic drugs is an essential mediator of brain injury
+even though the drug itself did not get into the brain. It is also imperative to note that anticancer medications,
+designed specifically to target cancer cells with specialized features, such as the family of Bcl2 inhibitors, also
+generate ROS. However, the effect of targeted therapy on CICI has never been addressed, and,
+consequently, their mechanisms of action are entirely unknown. The goal of this proposal is to test the overall
+hypothesis that therapy-induced ROS production in the target tissues leads to increased circulating TNFα
+through extracellular vesicles (EVs)-mediated reactions, and this pro-inflammatory cytokine crosses the blood
+brain barrier to elicit mitochondrial dysfunction and consequent neuronal injury leading to CICI. The following
+specific aims are designed to test the ROS hypothesis, gain an understanding of the EVs-mediated
+mechanisms, and test the proof-of-concept in an experimental cancer therapy setting using two prototype
+chemotherapy agents (Doxorubicin and Venetoclax) that represent standard cytotoxic and experimental
+targeted drugs in a lymphoma model. Aim 1 will investigate the fundamental role of TNFα in therapy-induced
+neuronal injury to gain insights into mechanisms of CICI in the brain and demonstrate efficacy of chemotherapy
+in the presence of redox-active antioxidants. Aim 2 will determine the mechanistic links between circulating
+extracellular vesicles and therapy-induced CICI. Aim 3 will define the cell(s) of origin of TNFα produced during
+chemotherapy that leads to cognitive impairment. These aims will be accomplished in vitro and in vivo using
+state-of-the-art technologies, including magnetic resonance spectroscopy, redox proteomics, unique animal
+models, and novel mitochondria targeting anti-oxidant, MnP, to ameliorate CICI without reducing the efficacy of
+the anti-cancer drugs. The results from this project will lay important groundwork for future clinical trials to
+improve the quality of lives of cancer patients exposed to cytotoxic or targeted therapies.","492343",
+"Acquired Cognitive Impairment; Brain Disorders; Cancer; Chronic Pain; Neurodegenerative; Neurosciences; Pain Research; Peripheral Neuropathy; Prevention","Adverse effects;Afferent Neurons;Aftercare;Axon;Brain;Cancer Control;Cancer Patient;Cancer Survivor;Cells;Chemotherapy-induced peripheral neuropathy;Cisplatin;Clinical Data;Clinical Research;Clinical Trials;Cognitive deficits;Cytosol;Data;Development;Disease;Drug Design;Ensure;Epigenetic Process;FDA approved;Goals;HDAC6 gene;Health;Heat-Shock Proteins 90;Histone Deacetylase;Histone Deacetylase Inhibitor;Histones;Impaired cognition;Impairment;Intervention;Malignant Neoplasms;Mediating;Mitochondria;Modeling;Mus;Neurodegenerative Disorders;Neuroimmune;Neurons;Outcome;Oxidative Stress;Pain;Pathway interactions;Patients;Peripheral;Peripheral Nerves;Permeability;Pharmaceutical Preparations;Population;Prevention;Proteins;Public Health;Quality of life;Reporting;Research;Resolution;Solid;Spinal Ganglia;Synaptosomes;T-Lymphocyte;Testing;Time;Toxic effect;Tubulin;United States Food and Drug Administration;anti-cancer;antitumor effect;cancer therapy;chemobrain;chemotherapy;chemotherapy induced neuropathy;clinical application;improved;inhibitor/antagonist;innovation;mitochondrial dysfunction;neuroinflammation;neurotoxic;neurotoxicity;new therapeutic target;novel;novel strategies;novel therapeutics;pre-clinical;preclinical study;prevent;repaired;restoration;side effect;survivorship;treatment effect;tumor;white matter","PQ12 Targeting HDAC6 for Chemotherapy-Induced Neuropathy and Chemobrain","PROJECT NARRATIVE
+The proposed research is relevant and significant for public health because we anticipate identifying HDAC6 as
+a novel therapeutic target for prevention as well as reversal of two frequent neurotoxic side effects of cancer
+treatment: chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive
+impairment (CICI). CIPN and CICI significantly reduce quality of life during treatment of patients with cancer
+and often last long into survivorship. Clinical trials to examine the effect of HDAC6 inhibitors on tumor control
+are already underway, and therefore rapid clinical application of HDAC6 inhibitors to manage CIPN and CICI
+upon succesful completion of this project should be realistic.","NCI","10146305","3/22/2021 12:00:00 AM","RFA-CA-17-017","5R01CA227064-04","5","R01","CA","227064","04"," ","ST GERMAIN, DIANE","5/22/2018 12:00:00 AM","4/30/2023 12:00:00 AM","ZCA1-SRB-A(J1)R"," ","12153444","GRACE, PETER M","SHEPHERD, ANDREW JOHN","09","INTERNAL MEDICINE/MEDICINE","800772139","S3GMKS8ELA16","800772139","S3GMKS8ELA16","US","29.706319","-95.397195","578407","UNIVERSITY OF TX MD ANDERSON CAN CTR","HOUSTON","TX","HOSPITALS","770304009","UNITED STATES","N","5/1/2021 12:00:00 AM","4/30/2022 12:00:00 AM","395","Non-SBIR/STTR","2021","366766"," ","NCI","229229","137537"," ","SUMMARY
+ Chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive impairment
+(CICI) are major side effects of cancer treatment that frequently persist long into survivorship. No drugs have
+been approved by the US Food and Drug Administration to prevent and/or adequately manage CIPN and CICI.
+This application aims at filling this void. A concern when designing drugs to manage CIPN and CICI is that
+they should not impair tumor control. Ideally, agents to control these neurotoxicities should also enhance
+tumor control. Recent findings indicate that inhibitors of histone deacetylase 6 (HDAC6) meet these goals.
+ HDAC6 de-acetylates non-histone cytosolic proteins like tubulin without inducing epigenetic changes.
+Recent preclinical and clinical data show promise for HDAC6 inhibitors to improve tumor control. We
+recently showed that HDAC6 inhibition fully reverses established CIPN in cisplatin-treated mice. This was
+associated with restoration of mitochondrial health in sensory neurons. Preliminary data indicate that co-
+administration of HDAC6 inhibitors protect against CIPN by preventing mitochondrial damage. Additional
+preliminary data indicate that HDAC6 inhibition also reverses established CICI and associated brain
+mitochondrial damage.
+ Our hypothesis is that HDAC6 inhibition prevents and reverses CIPN and CICI in mice with or without
+tumors by targeting mitochondrial health, oxidative stress, and downstream neuroimmune pathways. We will
+test our hypothesis in 3 specific aims: Aim1: Determine the capacity of HDAC6 inhibitors to prevent CIPN in
+mice with or without tumors. Aim 2: Determine the effect of HDAC6 inhibition on established CIPN. Aim 3:
+Determine whether the beneficial effects of HDAC6 inhibition extend to CICI. In aims 1 and 3, we will
+investigate the effect of HDAC6 inhibitors on tumor control and ensure that HDAC6 inhibitors also prevent
+CIPN and CICI in the presence of a tumor.
+ This study is innovative because we propose to target HDAC6 activity in neurons to control
+neurotoxicities while at the same time enhancing cancer control. The expected outcome is significant because
+it will identify HDAC6 inhibition as a realistic novel approach to control CIPN and CICI. This will increase the
+quality of life of millions of cancer patients and survivors. Clinical trials to examine the effect of HDAC6
+inhibitors on tumor control are already underway, and therefore the expected results of this project should
+rapidly convince clinicians to examine the value of HDAC6 inhibitors for management of both CIPN and CICI.
+Identification of HDAC6 inhibitors as drugs that can be used after completion of chemotherapy to completely
+resolve established CIPN and CICI will be of great benefit for cancer survivors suffering every day from
+these persistent neurotoxicities.","366766",
+"Acquired Cognitive Impairment; Biotechnology; Brain Disorders; Cancer; Hematology; Lymphoma; Neurosciences; Orphan Drug; Prevention; Rare Diseases","4 hydroxynonenal;Address;Animal Model;Antibodies;Antineoplastic Agents;Antioxidants;Apoptotic;BCL2 gene;Biochemical;Blood - brain barrier anatomy;Blood Circulation;Brain;Brain Injuries;Cancer Patient;Cancer Survivor;Cells;Choline;Clinical;Clinical Trials;Cognition;Confusion;Cytotoxic Chemotherapy;Development;Doxorubicin;Drug Targeting;Drug usage;Etiology;Exposure to;Family;Functional disorder;Future;Generations;Goals;Immune;Impaired cognition;Impairment;In Vitro;Inflammatory;Injury;Intrathecal Chemotherapy;Knockout Mice;Link;Lymphoma;Lymphoma cell;Magnetic Resonance Spectroscopy;Mediating;Mediator of activation protein;Memory;Mitochondria;Modeling;Molecular;Mus;Neuraxis;Neuronal Injury;Nitrates;Oxidation-Reduction;Oxidative Stress;Pathology;Patients;Peripheral;Pharmaceutical Preparations;Plasma;Prevention;Production;Proteins;Proteomics;Publishing;Quality of life;Radiation;Reaction;Reactive Oxygen Species;Recommendation;Research;Respiration;Risk;Role;SOD2 gene;Symptoms;Syndrome;Systemic Therapy;TNF gene;Technology;Testing;Therapeutic Effect;Therapeutic Uses;Tissues;Toxic effect;Toxicity due to chemotherapy;Treatment Efficacy;United States;Vision;anti-cancer;antioxidant enzyme;blood-brain barrier permeabilization;cancer cell;cancer therapy;chemobrain;chemotherapy;cytokine;cytotoxic;design;executive function;experience;extracellular vesicles;improved;in vivo;inhibitor/antagonist;insight;macrophage;mimetics;mitochondrial dysfunction;multitask;neuron loss;nitration;novel;prevent;prototype;specific biomarkers;targeted treatment;tumor","(PQ9)A redox-mediated mechanism of chemotherapy-induced cognitive impairment","Project Narrative
+Chemotherapy-induced cognitive impairment (CICI) is a serious threat to the quality of life. This project is
+designed to identify practice-changing therapy by establishing a new paradigm, which recognizes that ROS is
+the initiator of CICI, caused by both cytotoxic and targeted drugs. Results from these studies will lead to very
+concrete information potentially offering a specific course of action to develop effective clinical approaches
+specifically designed to prevent CICI without reducing chemotherapeutic efficacy.","NCI","9982850","7/14/2020 12:00:00 AM","RFA-CA-15-008","5R01CA217934-04","5","R01","CA","217934","04"," ","CHEN, WEIWEI","9/15/2017 12:00:00 AM","7/31/2022 12:00:00 AM","ZCA1-RTRB-E(M2)"," ","3147341","ST CLAIR, DARET K","BONDADA, SUBBARAO ; BUTTERFIELD, D. ALLAN","06","PHARMACOLOGY","939017877","H1HYA8Z1NTM5","939017877","H1HYA8Z1NTM5","US","38.040959","-84.505885","2793601","UNIVERSITY OF KENTUCKY","LEXINGTON","KY","SCHOOLS OF MEDICINE","405260001","UNITED STATES","N","8/1/2020 12:00:00 AM","7/31/2021 12:00:00 AM","395","Non-SBIR/STTR","2020","482478"," ","NCI","315345","167133"," ","Project Summary
+This application addresses the Provocative Question 9: ""What are the molecular and/or cellular mechanisms
+that underlie the development of cancer therapy-induced severe adverse sequelae?"" focusing on
+Chemotherapy-induced cognitive impairments (CICI). CICI is now a recognized toxicity syndrome that includes
+loss of executive function (confusion; memory issues), inability to multitask, and impaired intellectual
+reasoning. While CICI caused by central nervous system (CNS)-directed therapies (such as radiation and
+intrathecal chemotherapy) is readily understood, the mechanisms underlying a critical and shared toxicity of
+chemotherapy that occurs after systemic cancer treatment with drugs that did not direct at the brain, are
+unclear. The number of patients at risk for CICI from systemic therapy far exceeds the number of patients
+exposed to CNS therapy, but little is known about the mechanisms mediating the effect of systemic therapy on
+CICI, and there is no clear vision of how to prevent this condition. We have previously shown that generation
+of reactive oxygen species (ROS) by cytotoxic chemotherapeutic drugs is an essential mediator of brain injury
+even though the drug itself did not get into the brain. It is also imperative to note that anticancer medications,
+designed specifically to target cancer cells with specialized features, such as the family of Bcl2 inhibitors, also
+generate ROS. However, the effect of targeted therapy on CICI has never been addressed, and,
+consequently, their mechanisms of action are entirely unknown. The goal of this proposal is to test the overall
+hypothesis that therapy-induced ROS production in the target tissues leads to increased circulating TNFα
+through extracellular vesicles (EVs)-mediated reactions, and this pro-inflammatory cytokine crosses the blood
+brain barrier to elicit mitochondrial dysfunction and consequent neuronal injury leading to CICI. The following
+specific aims are designed to test the ROS hypothesis, gain an understanding of the EVs-mediated
+mechanisms, and test the proof-of-concept in an experimental cancer therapy setting using two prototype
+chemotherapy agents (Doxorubicin and Venetoclax) that represent standard cytotoxic and experimental
+targeted drugs in a lymphoma model. Aim 1 will investigate the fundamental role of TNFα in therapy-induced
+neuronal injury to gain insights into mechanisms of CICI in the brain and demonstrate efficacy of chemotherapy
+in the presence of redox-active antioxidants. Aim 2 will determine the mechanistic links between circulating
+extracellular vesicles and therapy-induced CICI. Aim 3 will define the cell(s) of origin of TNFα produced during
+chemotherapy that leads to cognitive impairment. These aims will be accomplished in vitro and in vivo using
+state-of-the-art technologies, including magnetic resonance spectroscopy, redox proteomics, unique animal
+models, and novel mitochondria targeting anti-oxidant, MnP, to ameliorate CICI without reducing the efficacy of
+the anti-cancer drugs. The results from this project will lay important groundwork for future clinical trials to
+improve the quality of lives of cancer patients exposed to cytotoxic or targeted therapies.","482478",
+"Acquired Cognitive Impairment; Brain Disorders; Cancer; Chronic Pain; Neurodegenerative; Neurosciences; Pain Research; Peripheral Neuropathy; Prevention","Adverse effects;Afferent Neurons;Aftercare;Axon;Brain;Cancer Control;Cancer Patient;Cancer Survivor;Cells;Chemotherapy-induced peripheral neuropathy;Cisplatin;Clinical Data;Clinical Research;Clinical Trials;Cognitive deficits;Cytosol;Data;Development;Disease;Drug Design;Ensure;Epigenetic Process;FDA approved;Goals;HDAC6 gene;Health;Heat-Shock Proteins 90;Histone Deacetylase;Histone Deacetylase Inhibitor;Histones;Impaired cognition;Impairment;Intervention;Malignant Neoplasms;Mediating;Mitochondria;Modeling;Mus;Neurodegenerative Disorders;Neuroimmune;Neurons;Outcome;Oxidative Stress;Pain;Pathway interactions;Patients;Peripheral;Peripheral Nerves;Permeability;Pharmaceutical Preparations;Population;Prevention;Proteins;Public Health;Quality of life;Reporting;Research;Resolution;Solid;Spinal Ganglia;Synaptosomes;T-Lymphocyte;Testing;Time;Toxic effect;Tubulin;United States Food and Drug Administration;anti-cancer;antitumor effect;cancer therapy;chemobrain;chemotherapy;chemotherapy induced neuropathy;clinical application;improved;inhibitor/antagonist;innovation;mitochondrial dysfunction;neuroinflammation;neurotoxic;neurotoxicity;new therapeutic target;novel;novel strategies;novel therapeutics;pre-clinical;preclinical study;prevent;repaired;restoration;side effect;survivorship;treatment effect;tumor;white matter","PQ12 Targeting HDAC6 for Chemotherapy-Induced Neuropathy and Chemobrain","PROJECT NARRATIVE
+The proposed research is relevant and significant for public health because we anticipate identifying HDAC6 as
+a novel therapeutic target for prevention as well as reversal of two frequent neurotoxic side effects of cancer
+treatment: chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive
+impairment (CICI). CIPN and CICI significantly reduce quality of life during treatment of patients with cancer
+and often last long into survivorship. Clinical trials to examine the effect of HDAC6 inhibitors on tumor control
+are already underway, and therefore rapid clinical application of HDAC6 inhibitors to manage CIPN and CICI
+upon succesful completion of this project should be realistic.","NCI","9914096","4/16/2020 12:00:00 AM","RFA-CA-17-017","5R01CA227064-03","5","R01","CA","227064","03"," ","ST GERMAIN, DIANE","5/22/2018 12:00:00 AM","4/30/2023 12:00:00 AM","ZCA1-SRB-A(J1)R"," ","9562595","KAVELAARS, ANNEMIEKE ","HEIJNEN, COBI J","09","INTERNAL MEDICINE/MEDICINE","800772139","S3GMKS8ELA16","800772139","S3GMKS8ELA16","US","29.706319","-95.397195","578407","UNIVERSITY OF TX MD ANDERSON CAN CTR","HOUSTON","TX","HOSPITALS","770304009","UNITED STATES","N","5/1/2020 12:00:00 AM","4/30/2021 12:00:00 AM","395","Non-SBIR/STTR","2020","366766"," ","NCI","229229","137537"," ","SUMMARY
+ Chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive impairment
+(CICI) are major side effects of cancer treatment that frequently persist long into survivorship. No drugs have
+been approved by the US Food and Drug Administration to prevent and/or adequately manage CIPN and CICI.
+This application aims at filling this void. A concern when designing drugs to manage CIPN and CICI is that
+they should not impair tumor control. Ideally, agents to control these neurotoxicities should also enhance
+tumor control. Recent findings indicate that inhibitors of histone deacetylase 6 (HDAC6) meet these goals.
+ HDAC6 de-acetylates non-histone cytosolic proteins like tubulin without inducing epigenetic changes.
+Recent preclinical and clinical data show promise for HDAC6 inhibitors to improve tumor control. We
+recently showed that HDAC6 inhibition fully reverses established CIPN in cisplatin-treated mice. This was
+associated with restoration of mitochondrial health in sensory neurons. Preliminary data indicate that co-
+administration of HDAC6 inhibitors protect against CIPN by preventing mitochondrial damage. Additional
+preliminary data indicate that HDAC6 inhibition also reverses established CICI and associated brain
+mitochondrial damage.
+ Our hypothesis is that HDAC6 inhibition prevents and reverses CIPN and CICI in mice with or without
+tumors by targeting mitochondrial health, oxidative stress, and downstream neuroimmune pathways. We will
+test our hypothesis in 3 specific aims: Aim1: Determine the capacity of HDAC6 inhibitors to prevent CIPN in
+mice with or without tumors. Aim 2: Determine the effect of HDAC6 inhibition on established CIPN. Aim 3:
+Determine whether the beneficial effects of HDAC6 inhibition extend to CICI. In aims 1 and 3, we will
+investigate the effect of HDAC6 inhibitors on tumor control and ensure that HDAC6 inhibitors also prevent
+CIPN and CICI in the presence of a tumor.
+ This study is innovative because we propose to target HDAC6 activity in neurons to control
+neurotoxicities while at the same time enhancing cancer control. The expected outcome is significant because
+it will identify HDAC6 inhibition as a realistic novel approach to control CIPN and CICI. This will increase the
+quality of life of millions of cancer patients and survivors. Clinical trials to examine the effect of HDAC6
+inhibitors on tumor control are already underway, and therefore the expected results of this project should
+rapidly convince clinicians to examine the value of HDAC6 inhibitors for management of both CIPN and CICI.
+Identification of HDAC6 inhibitors as drugs that can be used after completion of chemotherapy to completely
+resolve established CIPN and CICI will be of great benefit for cancer survivors suffering every day from
+these persistent neurotoxicities.","366766",
+"Acquired Cognitive Impairment; Aging; Alzheimer's Disease; Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD); Brain Disorders; Cancer; Chronic Pain; Dementia; Neurodegenerative; Neurosciences; Pain Research; Peripheral Neuropathy; Prevention","Adverse effects;Afferent Neurons;Aftercare;Axon;Brain;Cancer Control;Cancer Patient;Cancer Survivor;Cells;Chemotherapy-induced peripheral neuropathy;Cisplatin;Clinical Data;Clinical Research;Clinical Trials;Cognitive deficits;Cytosol;Data;Development;Disease;Drug Design;Ensure;Epigenetic Process;FDA approved;Goals;HDAC6 gene;Health;Heat-Shock Proteins 90;Histone Deacetylase;Histone Deacetylase Inhibitor;Histones;Impaired cognition;Impairment;Intervention;Malignant Neoplasms;Mediating;Mitochondria;Modeling;Mus;Neurodegenerative Disorders;Neuroimmune;Neurons;Outcome;Oxidative Stress;Pain;Pathway interactions;Patients;Peripheral;Peripheral Nerves;Permeability;Pharmaceutical Preparations;Population;Prevention;Proteins;Public Health;Quality of life;Reporting;Research;Resolution;Solid;Spinal Ganglia;Synaptosomes;T-Lymphocyte;Testing;Time;Toxic effect;Tubulin;United States Food and Drug Administration;anti-cancer;antitumor effect;cancer therapy;chemobrain;chemotherapy;chemotherapy induced neuropathy;clinical application;improved;inhibitor/antagonist;innovation;mitochondrial dysfunction;neuroinflammation;neurotoxic;neurotoxicity;new therapeutic target;novel;novel strategies;novel therapeutics;pre-clinical;preclinical study;prevent;repaired;restoration;side effect;survivorship;treatment effect;tumor;white matter","PQ12 Targeting HDAC6 for Chemotherapy-Induced Neuropathy and Chemobrain","PROJECT NARRATIVE
+The proposed research is relevant and significant for public health because we anticipate identifying HDAC6 as
+a novel therapeutic target for prevention as well as reversal of two frequent neurotoxic side effects of cancer
+treatment: chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive
+impairment (CICI). CIPN and CICI significantly reduce quality of life during treatment of patients with cancer
+and often last long into survivorship. Clinical trials to examine the effect of HDAC6 inhibitors on tumor control
+are already underway, and therefore rapid clinical application of HDAC6 inhibitors to manage CIPN and CICI
+upon succesful completion of this project should be realistic.","NCI","9874164","8/14/2019 12:00:00 AM","PA-18-591","3R01CA227064-02S1","3","R01","CA","227064","02","S","BAKOS, ALEXIS DIANE","5/22/2018 12:00:00 AM","4/30/2023 12:00:00 AM","ZCA1(J1)-R"," ","12153444","GRACE, PETER M","SHEPHERD, ANDREW JOHN","09","INTERNAL MEDICINE/MEDICINE","800772139","S3GMKS8ELA16","800772139","S3GMKS8ELA16","US","29.706319","-95.397195","578407","UNIVERSITY OF TX MD ANDERSON CAN CTR","HOUSTON","TX","HOSPITALS","770304009","UNITED STATES","N","5/1/2019 12:00:00 AM","4/30/2020 12:00:00 AM","866","Non-SBIR/STTR","2019","399918"," ","NIA","249949","149969"," ","SUMMARY
+ Chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive impairment
+(CICI) are major side effects of cancer treatment that frequently persist long into survivorship. No drugs have
+been approved by the US Food and Drug Administration to prevent and/or adequately manage CIPN and CICI.
+This application aims at filling this void. A concern when designing drugs to manage CIPN and CICI is that
+they should not impair tumor control. Ideally, agents to control these neurotoxicities should also enhance
+tumor control. Recent findings indicate that inhibitors of histone deacetylase 6 (HDAC6) meet these goals.
+ HDAC6 de-acetylates non-histone cytosolic proteins like tubulin without inducing epigenetic changes.
+Recent preclinical and clinical data show promise for HDAC6 inhibitors to improve tumor control. We
+recently showed that HDAC6 inhibition fully reverses established CIPN in cisplatin-treated mice. This was
+associated with restoration of mitochondrial health in sensory neurons. Preliminary data indicate that co-
+administration of HDAC6 inhibitors protect against CIPN by preventing mitochondrial damage. Additional
+preliminary data indicate that HDAC6 inhibition also reverses established CICI and associated brain
+mitochondrial damage.
+ Our hypothesis is that HDAC6 inhibition prevents and reverses CIPN and CICI in mice with or without
+tumors by targeting mitochondrial health, oxidative stress, and downstream neuroimmune pathways. We will
+test our hypothesis in 3 specific aims: Aim1: Determine the capacity of HDAC6 inhibitors to prevent CIPN in
+mice with or without tumors. Aim 2: Determine the effect of HDAC6 inhibition on established CIPN. Aim 3:
+Determine whether the beneficial effects of HDAC6 inhibition extend to CICI. In aims 1 and 3, we will
+investigate the effect of HDAC6 inhibitors on tumor control and ensure that HDAC6 inhibitors also prevent
+CIPN and CICI in the presence of a tumor.
+ This study is innovative because we propose to target HDAC6 activity in neurons to control
+neurotoxicities while at the same time enhancing cancer control. The expected outcome is significant because
+it will identify HDAC6 inhibition as a realistic novel approach to control CIPN and CICI. This will increase the
+quality of life of millions of cancer patients and survivors. Clinical trials to examine the effect of HDAC6
+inhibitors on tumor control are already underway, and therefore the expected results of this project should
+rapidly convince clinicians to examine the value of HDAC6 inhibitors for management of both CIPN and CICI.
+Identification of HDAC6 inhibitors as drugs that can be used after completion of chemotherapy to completely
+resolve established CIPN and CICI will be of great benefit for cancer survivors suffering every day from
+these persistent neurotoxicities.","399918",
+"Acquired Cognitive Impairment; Biotechnology; Brain Disorders; Cancer; Hematology; Lymphoma; Neurosciences; Orphan Drug; Prevention; Rare Diseases","4 hydroxynonenal;Address;Animal Model;Antibodies;Antineoplastic Agents;Antioxidants;Apoptotic;BCL2 gene;Biochemical;Blood - brain barrier anatomy;Blood Circulation;Brain;Brain Injuries;Cancer Patient;Cancer Survivor;Cells;Choline;Clinical;Clinical Trials;Cognition;Confusion;Cytotoxic Chemotherapy;Development;Doxorubicin;Drug Targeting;Drug usage;Etiology;Exposure to;Family;Functional disorder;Future;Generations;Goals;Immune;Impaired cognition;Impairment;In Vitro;Inflammatory;Injury;Intrathecal Chemotherapy;Knockout Mice;Link;Lymphoma;Magnetic Resonance Spectroscopy;Mediating;Mediator of activation protein;Memory;Mitochondria;Modeling;Molecular;Mus;Neuraxis;Neuronal Injury;Nitrates;Oxidation-Reduction;Oxidative Stress;Pathology;Patients;Peripheral;Permeability;Pharmaceutical Preparations;Plasma;Prevention;Production;Proteins;Proteomics;Publishing;Quality of life;Radiation;Reaction;Reactive Oxygen Species;Recommendation;Research;Respiration;Risk;Role;SOD2 gene;Symptoms;Syndrome;Systemic Therapy;TNF gene;Technology;Testing;Therapeutic Effect;Therapeutic Uses;Tissues;Toxic effect;Toxicity due to chemotherapy;Treatment Efficacy;United States;Vision;anti-cancer;antioxidant enzyme;cancer cell;cancer therapy;chemobrain;chemotherapy;cytokine;cytotoxic;design;executive function;experience;extracellular vesicles;improved;in vivo;inhibitor/antagonist;insight;macrophage;mimetics;mitochondrial dysfunction;multitask;neuron loss;nitration;novel;prevent;prototype;specific biomarkers;targeted treatment;tumor","(PQ9)A redox-mediated mechanism of chemotherapy-induced cognitive impairment","Project Narrative
+Chemotherapy-induced cognitive impairment (CICI) is a serious threat to the quality of life. This project is
+designed to identify practice-changing therapy by establishing a new paradigm, which recognizes that ROS is
+the initiator of CICI, caused by both cytotoxic and targeted drugs. Results from these studies will lead to very
+concrete information potentially offering a specific course of action to develop effective clinical approaches
+specifically designed to prevent CICI without reducing chemotherapeutic efficacy.","NCI","9744473","7/24/2019 12:00:00 AM","RFA-CA-15-008","5R01CA217934-03","5","R01","CA","217934","03"," ","CHEN, WEIWEI","9/15/2017 12:00:00 AM","7/31/2022 12:00:00 AM","ZCA1-RTRB-E(M2)"," ","3147341","ST CLAIR, DARET K","BONDADA, SUBBARAO ; BUTTERFIELD, D. ALLAN","06","PHARMACOLOGY","939017877","H1HYA8Z1NTM5","939017877","H1HYA8Z1NTM5","US","38.040959","-84.505885","2793601","UNIVERSITY OF KENTUCKY","LEXINGTON","KY","SCHOOLS OF MEDICINE","405260001","UNITED STATES","N","8/1/2019 12:00:00 AM","7/31/2020 12:00:00 AM","395","Non-SBIR/STTR","2019","458815"," ","NCI","299879","158936"," ","Project Summary
+This application addresses the Provocative Question 9: ""What are the molecular and/or cellular mechanisms
+that underlie the development of cancer therapy-induced severe adverse sequelae?"" focusing on
+Chemotherapy-induced cognitive impairments (CICI). CICI is now a recognized toxicity syndrome that includes
+loss of executive function (confusion; memory issues), inability to multitask, and impaired intellectual
+reasoning. While CICI caused by central nervous system (CNS)-directed therapies (such as radiation and
+intrathecal chemotherapy) is readily understood, the mechanisms underlying a critical and shared toxicity of
+chemotherapy that occurs after systemic cancer treatment with drugs that did not direct at the brain, are
+unclear. The number of patients at risk for CICI from systemic therapy far exceeds the number of patients
+exposed to CNS therapy, but little is known about the mechanisms mediating the effect of systemic therapy on
+CICI, and there is no clear vision of how to prevent this condition. We have previously shown that generation
+of reactive oxygen species (ROS) by cytotoxic chemotherapeutic drugs is an essential mediator of brain injury
+even though the drug itself did not get into the brain. It is also imperative to note that anticancer medications,
+designed specifically to target cancer cells with specialized features, such as the family of Bcl2 inhibitors, also
+generate ROS. However, the effect of targeted therapy on CICI has never been addressed, and,
+consequently, their mechanisms of action are entirely unknown. The goal of this proposal is to test the overall
+hypothesis that therapy-induced ROS production in the target tissues leads to increased circulating TNFα
+through extracellular vesicles (EVs)-mediated reactions, and this pro-inflammatory cytokine crosses the blood
+brain barrier to elicit mitochondrial dysfunction and consequent neuronal injury leading to CICI. The following
+specific aims are designed to test the ROS hypothesis, gain an understanding of the EVs-mediated
+mechanisms, and test the proof-of-concept in an experimental cancer therapy setting using two prototype
+chemotherapy agents (Doxorubicin and Venetoclax) that represent standard cytotoxic and experimental
+targeted drugs in a lymphoma model. Aim 1 will investigate the fundamental role of TNFα in therapy-induced
+neuronal injury to gain insights into mechanisms of CICI in the brain and demonstrate efficacy of chemotherapy
+in the presence of redox-active antioxidants. Aim 2 will determine the mechanistic links between circulating
+extracellular vesicles and therapy-induced CICI. Aim 3 will define the cell(s) of origin of TNFα produced during
+chemotherapy that leads to cognitive impairment. These aims will be accomplished in vitro and in vivo using
+state-of-the-art technologies, including magnetic resonance spectroscopy, redox proteomics, unique animal
+models, and novel mitochondria targeting anti-oxidant, MnP, to ameliorate CICI without reducing the efficacy of
+the anti-cancer drugs. The results from this project will lay important groundwork for future clinical trials to
+improve the quality of lives of cancer patients exposed to cytotoxic or targeted therapies.","458815",
+"Acquired Cognitive Impairment; Aging; Alzheimer's Disease; Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD); Biotechnology; Brain Disorders; Cancer; Dementia; Hematology; Lymphoma; Neurodegenerative; Neurosciences; Orphan Drug; Prevention; Rare Diseases","4 hydroxynonenal;Address;Animal Model;Antibodies;Antineoplastic Agents;Antioxidants;Apoptotic;BCL2 gene;Biochemical;Blood - brain barrier anatomy;Blood Circulation;Brain;Brain Injuries;Cancer Patient;Cancer Survivor;Cells;Choline;Clinical;Clinical Trials;Cognition;Confusion;Cytotoxic Chemotherapy;Development;Doxorubicin;Drug Targeting;Drug usage;Etiology;Exposure to;Family;Functional disorder;Future;Generations;Goals;Immune;Impaired cognition;Impairment;In Vitro;Inflammatory;Injury;Intrathecal Chemotherapy;Knockout Mice;Link;Lymphoma;Magnetic Resonance Spectroscopy;Mediating;Mediator of activation protein;Memory;Mitochondria;Modeling;Molecular;Mus;Neuraxis;Neuronal Injury;Nitrates;Oxidation-Reduction;Oxidative Stress;Pathology;Patients;Peripheral;Permeability;Pharmaceutical Preparations;Plasma;Prevention;Production;Proteins;Proteomics;Publishing;Quality of life;Radiation;Reaction;Reactive Oxygen Species;Recommendation;Research;Respiration;Risk;Role;SOD2 gene;Symptoms;Syndrome;Systemic Therapy;TNF gene;Technology;Testing;Therapeutic Effect;Therapeutic Uses;Tissues;Toxic effect;Toxicity due to chemotherapy;Treatment Efficacy;United States;Vision;anti-cancer;antioxidant enzyme;cancer cell;cancer therapy;chemobrain;chemotherapy;cytokine;cytotoxic;design;executive function;experience;extracellular vesicles;improved;in vivo;inhibitor/antagonist;insight;macrophage;mimetics;mitochondrial dysfunction;multitask;neuron loss;nitration;novel;prevent;prototype;specific biomarkers;targeted treatment;tumor","(PQ9)A redox-mediated mechanism of chemotherapy-induced cognitive impairment","Project Narrative
+Chemotherapy-induced cognitive impairment (CICI) is a serious threat to the quality of life. This project is
+designed to identify practice-changing therapy by establishing a new paradigm, which recognizes that ROS is
+the initiator of CICI, caused by both cytotoxic and targeted drugs. Results from these studies will lead to very
+concrete information potentially offering a specific course of action to develop effective clinical approaches
+specifically designed to prevent CICI without reducing chemotherapeutic efficacy.","NCI","9708482","9/17/2018 12:00:00 AM","PA-18-591","3R01CA217934-02S1","3","R01","CA","217934","02","S","CHEN, WEIWEI","9/15/2017 12:00:00 AM","7/31/2022 12:00:00 AM","ZCA1(M2)"," ","3147341","ST CLAIR, DARET K","BONDADA, SUBBARAO ; BUTTERFIELD, D. ALLAN","06","PHARMACOLOGY","939017877","H1HYA8Z1NTM5","939017877","H1HYA8Z1NTM5","US","38.040959","-84.505885","2793601","UNIVERSITY OF KENTUCKY","LEXINGTON","KY","SCHOOLS OF MEDICINE","405260001","UNITED STATES","N","8/1/2018 12:00:00 AM","7/31/2019 12:00:00 AM","866","Non-SBIR/STTR","2018","382500"," ","NIA","250000","132500"," ","Project Summary
+This application addresses the Provocative Question 9: ""What are the molecular and/or cellular mechanisms
+that underlie the development of cancer therapy-induced severe adverse sequelae?"" focusing on
+Chemotherapy-induced cognitive impairments (CICI). CICI is now a recognized toxicity syndrome that includes
+loss of executive function (confusion; memory issues), inability to multitask, and impaired intellectual
+reasoning. While CICI caused by central nervous system (CNS)-directed therapies (such as radiation and
+intrathecal chemotherapy) is readily understood, the mechanisms underlying a critical and shared toxicity of
+chemotherapy that occurs after systemic cancer treatment with drugs that did not direct at the brain, are
+unclear. The number of patients at risk for CICI from systemic therapy far exceeds the number of patients
+exposed to CNS therapy, but little is known about the mechanisms mediating the effect of systemic therapy on
+CICI, and there is no clear vision of how to prevent this condition. We have previously shown that generation
+of reactive oxygen species (ROS) by cytotoxic chemotherapeutic drugs is an essential mediator of brain injury
+even though the drug itself did not get into the brain. It is also imperative to note that anticancer medications,
+designed specifically to target cancer cells with specialized features, such as the family of Bcl2 inhibitors, also
+generate ROS. However, the effect of targeted therapy on CICI has never been addressed, and,
+consequently, their mechanisms of action are entirely unknown. The goal of this proposal is to test the overall
+hypothesis that therapy-induced ROS production in the target tissues leads to increased circulating TNFα
+through extracellular vesicles (EVs)-mediated reactions, and this pro-inflammatory cytokine crosses the blood
+brain barrier to elicit mitochondrial dysfunction and consequent neuronal injury leading to CICI. The following
+specific aims are designed to test the ROS hypothesis, gain an understanding of the EVs-mediated
+mechanisms, and test the proof-of-concept in an experimental cancer therapy setting using two prototype
+chemotherapy agents (Doxorubicin and Venetoclax) that represent standard cytotoxic and experimental
+targeted drugs in a lymphoma model. Aim 1 will investigate the fundamental role of TNFα in therapy-induced
+neuronal injury to gain insights into mechanisms of CICI in the brain and demonstrate efficacy of chemotherapy
+in the presence of redox-active antioxidants. Aim 2 will determine the mechanistic links between circulating
+extracellular vesicles and therapy-induced CICI. Aim 3 will define the cell(s) of origin of TNFα produced during
+chemotherapy that leads to cognitive impairment. These aims will be accomplished in vitro and in vivo using
+state-of-the-art technologies, including magnetic resonance spectroscopy, redox proteomics, unique animal
+models, and novel mitochondria targeting anti-oxidant, MnP, to ameliorate CICI without reducing the efficacy of
+the anti-cancer drugs. The results from this project will lay important groundwork for future clinical trials to
+improve the quality of lives of cancer patients exposed to cytotoxic or targeted therapies.","382500",
+"Acquired Cognitive Impairment; Brain Disorders; Cancer; Chronic Pain; Neurodegenerative; Neurosciences; Pain Research; Peripheral Neuropathy; Prevention","Adverse effects;Afferent Neurons;Aftercare;Axon;Brain;Cancer Control;Cancer Patient;Cancer Survivor;Cells;Chemotherapy-induced peripheral neuropathy;Cisplatin;Clinical Data;Clinical Research;Clinical Trials;Cognitive deficits;Cytosol;Data;Development;Disease;Drug Design;Ensure;Epigenetic Process;FDA approved;Goals;HDAC6 gene;Health;Heat-Shock Proteins 90;Histone Deacetylase;Histone Deacetylase Inhibitor;Histones;Impaired cognition;Impairment;Intervention;Malignant Neoplasms;Mediating;Mitochondria;Modeling;Mus;Neurodegenerative Disorders;Neuroimmune;Neurons;Outcome;Oxidative Stress;Pain;Pathway interactions;Patients;Peripheral;Peripheral Nerves;Permeability;Pharmaceutical Preparations;Population;Prevention;Proteins;Public Health;Quality of life;Reporting;Research;Resolution;Solid;Spinal Ganglia;Synaptosomes;T-Lymphocyte;Testing;Time;Toxic effect;Tubulin;United States Food and Drug Administration;anti-cancer;antitumor effect;cancer therapy;chemobrain;chemotherapy;chemotherapy induced neuropathy;clinical application;improved;inhibitor/antagonist;innovation;mitochondrial dysfunction;neuroinflammation;neurotoxic;neurotoxicity;new therapeutic target;novel;novel strategies;novel therapeutics;pre-clinical;preclinical study;prevent;repaired;restoration;side effect;survivorship;treatment effect;tumor;white matter","PQ12 Targeting HDAC6 for Chemotherapy-Induced Neuropathy and Chemobrain","PROJECT NARRATIVE
+The proposed research is relevant and significant for public health because we anticipate identifying HDAC6 as
+a novel therapeutic target for prevention as well as reversal of two frequent neurotoxic side effects of cancer
+treatment: chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive
+impairment (CICI). CIPN and CICI significantly reduce quality of life during treatment of patients with cancer
+and often last long into survivorship. Clinical trials to examine the effect of HDAC6 inhibitors on tumor control
+are already underway, and therefore rapid clinical application of HDAC6 inhibitors to manage CIPN and CICI
+upon succesful completion of this project should be realistic.","NCI","9700648","4/12/2019 12:00:00 AM","RFA-CA-17-017","5R01CA227064-02","5","R01","CA","227064","02"," ","ST GERMAIN, DIANE","5/22/2018 12:00:00 AM","4/30/2023 12:00:00 AM","ZCA1-SRB-A(J1)R"," ","9562595","KAVELAARS, ANNEMIEKE ","HEIJNEN, COBI J","09","INTERNAL MEDICINE/MEDICINE","800772139","S3GMKS8ELA16","800772139","S3GMKS8ELA16","US","29.706319","-95.397195","578407","UNIVERSITY OF TX MD ANDERSON CAN CTR","HOUSTON","TX","HOSPITALS","770304009","UNITED STATES","N","5/1/2019 12:00:00 AM","4/30/2020 12:00:00 AM","395","Non-SBIR/STTR","2019","355763"," ","NCI","222352","133411"," ","SUMMARY
+ Chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive impairment
+(CICI) are major side effects of cancer treatment that frequently persist long into survivorship. No drugs have
+been approved by the US Food and Drug Administration to prevent and/or adequately manage CIPN and CICI.
+This application aims at filling this void. A concern when designing drugs to manage CIPN and CICI is that
+they should not impair tumor control. Ideally, agents to control these neurotoxicities should also enhance
+tumor control. Recent findings indicate that inhibitors of histone deacetylase 6 (HDAC6) meet these goals.
+ HDAC6 de-acetylates non-histone cytosolic proteins like tubulin without inducing epigenetic changes.
+Recent preclinical and clinical data show promise for HDAC6 inhibitors to improve tumor control. We
+recently showed that HDAC6 inhibition fully reverses established CIPN in cisplatin-treated mice. This was
+associated with restoration of mitochondrial health in sensory neurons. Preliminary data indicate that co-
+administration of HDAC6 inhibitors protect against CIPN by preventing mitochondrial damage. Additional
+preliminary data indicate that HDAC6 inhibition also reverses established CICI and associated brain
+mitochondrial damage.
+ Our hypothesis is that HDAC6 inhibition prevents and reverses CIPN and CICI in mice with or without
+tumors by targeting mitochondrial health, oxidative stress, and downstream neuroimmune pathways. We will
+test our hypothesis in 3 specific aims: Aim1: Determine the capacity of HDAC6 inhibitors to prevent CIPN in
+mice with or without tumors. Aim 2: Determine the effect of HDAC6 inhibition on established CIPN. Aim 3:
+Determine whether the beneficial effects of HDAC6 inhibition extend to CICI. In aims 1 and 3, we will
+investigate the effect of HDAC6 inhibitors on tumor control and ensure that HDAC6 inhibitors also prevent
+CIPN and CICI in the presence of a tumor.
+ This study is innovative because we propose to target HDAC6 activity in neurons to control
+neurotoxicities while at the same time enhancing cancer control. The expected outcome is significant because
+it will identify HDAC6 inhibition as a realistic novel approach to control CIPN and CICI. This will increase the
+quality of life of millions of cancer patients and survivors. Clinical trials to examine the effect of HDAC6
+inhibitors on tumor control are already underway, and therefore the expected results of this project should
+rapidly convince clinicians to examine the value of HDAC6 inhibitors for management of both CIPN and CICI.
+Identification of HDAC6 inhibitors as drugs that can be used after completion of chemotherapy to completely
+resolve established CIPN and CICI will be of great benefit for cancer survivors suffering every day from
+these persistent neurotoxicities.","355763",
+"Acquired Cognitive Impairment; Biotechnology; Brain Disorders; Cancer; Hematology; Lymphoma; Neurosciences; Orphan Drug; Prevention; Rare Diseases","4 hydroxynonenal;Address;Animal Model;Antibodies;Antineoplastic Agents;Antioxidants;Apoptotic;BCL2 gene;Biochemical;Blood - brain barrier anatomy;Blood Circulation;Brain;Brain Injuries;Cancer Patient;Cancer Survivor;Cells;Choline;Clinical;Clinical Trials;Cognition;Confusion;Cytotoxic Chemotherapy;Development;Doxorubicin;Drug Targeting;Drug usage;Etiology;Exposure to;Family;Functional disorder;Future;Generations;Goals;Immune;Impaired cognition;Impairment;In Vitro;Inflammatory;Injury;Intrathecal Chemotherapy;Knockout Mice;Link;Lymphoma;Magnetic Resonance Spectroscopy;Mediating;Mediator of activation protein;Memory;Mitochondria;Modeling;Molecular;Mus;Neuraxis;Neuronal Injury;Nitrates;Oxidation-Reduction;Oxidative Stress;Pathology;Patients;Peripheral;Permeability;Pharmaceutical Preparations;Plasma;Prevention;Production;Proteins;Proteomics;Publishing;Quality of life;Radiation;Reaction;Reactive Oxygen Species;Recommendation;Research;Respiration;Risk;Role;SOD2 gene;Symptoms;Syndrome;Systemic Therapy;TNF gene;Technology;Testing;Therapeutic Effect;Therapeutic Uses;Tissues;Toxic effect;Toxicity due to chemotherapy;Treatment Efficacy;United States;Vision;anti-cancer;antioxidant enzyme;cancer cell;cancer therapy;chemobrain;chemotherapy;cytokine;cytotoxic;design;executive function;experience;extracellular vesicles;improved;in vivo;inhibitor/antagonist;insight;macrophage;mimetics;mitochondrial dysfunction;multitask;neuron loss;nitration;novel;prevent;prototype;specific biomarkers;targeted treatment;tumor","(PQ9)A redox-mediated mechanism of chemotherapy-induced cognitive impairment","Project Narrative
+Chemotherapy-induced cognitive impairment (CICI) is a serious threat to the quality of life. This project is
+designed to identify practice-changing therapy by establishing a new paradigm, which recognizes that ROS is
+the initiator of CICI, caused by both cytotoxic and targeted drugs. Results from these studies will lead to very
+concrete information potentially offering a specific course of action to develop effective clinical approaches
+specifically designed to prevent CICI without reducing chemotherapeutic efficacy.","NCI","9566130","7/12/2018 12:00:00 AM","RFA-CA-15-008","5R01CA217934-02","5","R01","CA","217934","02"," ","CHEN, WEIWEI","9/15/2017 12:00:00 AM","7/31/2022 12:00:00 AM","ZCA1-RTRB-E(M2)"," ","3147341","ST CLAIR, DARET K","BONDADA, SUBBARAO ; BUTTERFIELD, D. ALLAN","06","PHARMACOLOGY","939017877","H1HYA8Z1NTM5","939017877","H1HYA8Z1NTM5","US","38.040959","-84.505885","2793601","UNIVERSITY OF KENTUCKY","LEXINGTON","KY","SCHOOLS OF MEDICINE","405260001","UNITED STATES","N","8/1/2018 12:00:00 AM","7/31/2019 12:00:00 AM","395","Non-SBIR/STTR","2018","463899"," ","NCI","303202","160697"," ","Project Summary
+This application addresses the Provocative Question 9: ""What are the molecular and/or cellular mechanisms
+that underlie the development of cancer therapy-induced severe adverse sequelae?"" focusing on
+Chemotherapy-induced cognitive impairments (CICI). CICI is now a recognized toxicity syndrome that includes
+loss of executive function (confusion; memory issues), inability to multitask, and impaired intellectual
+reasoning. While CICI caused by central nervous system (CNS)-directed therapies (such as radiation and
+intrathecal chemotherapy) is readily understood, the mechanisms underlying a critical and shared toxicity of
+chemotherapy that occurs after systemic cancer treatment with drugs that did not direct at the brain, are
+unclear. The number of patients at risk for CICI from systemic therapy far exceeds the number of patients
+exposed to CNS therapy, but little is known about the mechanisms mediating the effect of systemic therapy on
+CICI, and there is no clear vision of how to prevent this condition. We have previously shown that generation
+of reactive oxygen species (ROS) by cytotoxic chemotherapeutic drugs is an essential mediator of brain injury
+even though the drug itself did not get into the brain. It is also imperative to note that anticancer medications,
+designed specifically to target cancer cells with specialized features, such as the family of Bcl2 inhibitors, also
+generate ROS. However, the effect of targeted therapy on CICI has never been addressed, and,
+consequently, their mechanisms of action are entirely unknown. The goal of this proposal is to test the overall
+hypothesis that therapy-induced ROS production in the target tissues leads to increased circulating TNFα
+through extracellular vesicles (EVs)-mediated reactions, and this pro-inflammatory cytokine crosses the blood
+brain barrier to elicit mitochondrial dysfunction and consequent neuronal injury leading to CICI. The following
+specific aims are designed to test the ROS hypothesis, gain an understanding of the EVs-mediated
+mechanisms, and test the proof-of-concept in an experimental cancer therapy setting using two prototype
+chemotherapy agents (Doxorubicin and Venetoclax) that represent standard cytotoxic and experimental
+targeted drugs in a lymphoma model. Aim 1 will investigate the fundamental role of TNFα in therapy-induced
+neuronal injury to gain insights into mechanisms of CICI in the brain and demonstrate efficacy of chemotherapy
+in the presence of redox-active antioxidants. Aim 2 will determine the mechanistic links between circulating
+extracellular vesicles and therapy-induced CICI. Aim 3 will define the cell(s) of origin of TNFα produced during
+chemotherapy that leads to cognitive impairment. These aims will be accomplished in vitro and in vivo using
+state-of-the-art technologies, including magnetic resonance spectroscopy, redox proteomics, unique animal
+models, and novel mitochondria targeting anti-oxidant, MnP, to ameliorate CICI without reducing the efficacy of
+the anti-cancer drugs. The results from this project will lay important groundwork for future clinical trials to
+improve the quality of lives of cancer patients exposed to cytotoxic or targeted therapies.","463899",
+"Acquired Cognitive Impairment; Brain Disorders; Cancer; Chronic Pain; Neurodegenerative; Neurosciences; Pain Research; Peripheral Neuropathy; Prevention","Adverse effects;Afferent Neurons;Aftercare;Axon;Brain;Cancer Control;Cancer Patient;Cancer Survivor;Cells;Chemotherapy-induced peripheral neuropathy;Cisplatin;Clinical Data;Clinical Research;Clinical Trials;Cognitive deficits;Cytosol;Data;Development;Disease;Drug Design;Ensure;Epigenetic Process;FDA approved;Goals;HDAC6 gene;Health;Heat-Shock Proteins 90;Histone Deacetylase;Histone Deacetylase Inhibitor;Histones;Impaired cognition;Impairment;Intervention;Malignant Neoplasms;Mediating;Mitochondria;Modeling;Mus;Neurodegenerative Disorders;Neuroimmune;Neurons;Outcome;Oxidative Stress;Pain;Pathway interactions;Patients;Peripheral;Peripheral Nerves;Permeability;Pharmaceutical Preparations;Population;Prevention;Proteins;Public Health;Quality of life;Reporting;Research;Resolution;Solid;Spinal Ganglia;Synaptosomes;T-Lymphocyte;Testing;Time;Toxic effect;Tubulin;United States Food and Drug Administration;anti-cancer;antitumor effect;cancer therapy;chemobrain;chemotherapy;chemotherapy induced neuropathy;clinical application;improved;inhibitor/antagonist;innovation;mitochondrial dysfunction;neuroinflammation;neurotoxic;neurotoxicity;new therapeutic target;novel;novel strategies;novel therapeutics;pre-clinical;preclinical study;prevent;repaired;restoration;survivorship;treatment effect;tumor;white matter","PQ12 Targeting HDAC6 for Chemotherapy-Induced Neuropathy and Chemobrain","PROJECT NARRATIVE
+The proposed research is relevant and significant for public health because we anticipate identifying HDAC6 as
+a novel therapeutic target for prevention as well as reversal of two frequent neurotoxic side effects of cancer
+treatment: chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive
+impairment (CICI). CIPN and CICI significantly reduce quality of life during treatment of patients with cancer
+and often last long into survivorship. Clinical trials to examine the effect of HDAC6 inhibitors on tumor control
+are already underway, and therefore rapid clinical application of HDAC6 inhibitors to manage CIPN and CICI
+upon succesful completion of this project should be realistic.","NCI","9515204","5/21/2018 12:00:00 AM","RFA-CA-17-017","1R01CA227064-01","1","R01","CA","227064","01"," ","ST GERMAIN, DIANE","5/22/2018 12:00:00 AM","4/30/2023 12:00:00 AM","ZCA1-SRB-A(J1)R"," ","9562595","KAVELAARS, ANNEMIEKE ","HEIJNEN, COBI J","09","INTERNAL MEDICINE/MEDICINE","800772139","S3GMKS8ELA16","800772139","S3GMKS8ELA16","US","29.706319","-95.397195","578407","UNIVERSITY OF TX MD ANDERSON CAN CTR","HOUSTON","TX","HOSPITALS","770304009","UNITED STATES","N","5/22/2018 12:00:00 AM","4/30/2019 12:00:00 AM","395","Non-SBIR/STTR","2018","366766"," ","NCI","229229","137537"," ","SUMMARY
+ Chemotherapy-induced peripheral neuropathy (CIPN) and chemotherapy-induced cognitive impairment
+(CICI) are major side effects of cancer treatment that frequently persist long into survivorship. No drugs have
+been approved by the US Food and Drug Administration to prevent and/or adequately manage CIPN and CICI.
+This application aims at filling this void. A concern when designing drugs to manage CIPN and CICI is that
+they should not impair tumor control. Ideally, agents to control these neurotoxicities should also enhance
+tumor control. Recent findings indicate that inhibitors of histone deacetylase 6 (HDAC6) meet these goals.
+ HDAC6 de-acetylates non-histone cytosolic proteins like tubulin without inducing epigenetic changes.
+Recent preclinical and clinical data show promise for HDAC6 inhibitors to improve tumor control. We
+recently showed that HDAC6 inhibition fully reverses established CIPN in cisplatin-treated mice. This was
+associated with restoration of mitochondrial health in sensory neurons. Preliminary data indicate that co-
+administration of HDAC6 inhibitors protect against CIPN by preventing mitochondrial damage. Additional
+preliminary data indicate that HDAC6 inhibition also reverses established CICI and associated brain
+mitochondrial damage.
+ Our hypothesis is that HDAC6 inhibition prevents and reverses CIPN and CICI in mice with or without
+tumors by targeting mitochondrial health, oxidative stress, and downstream neuroimmune pathways. We will
+test our hypothesis in 3 specific aims: Aim1: Determine the capacity of HDAC6 inhibitors to prevent CIPN in
+mice with or without tumors. Aim 2: Determine the effect of HDAC6 inhibition on established CIPN. Aim 3:
+Determine whether the beneficial effects of HDAC6 inhibition extend to CICI. In aims 1 and 3, we will
+investigate the effect of HDAC6 inhibitors on tumor control and ensure that HDAC6 inhibitors also prevent
+CIPN and CICI in the presence of a tumor.
+ This study is innovative because we propose to target HDAC6 activity in neurons to control
+neurotoxicities while at the same time enhancing cancer control. The expected outcome is significant because
+it will identify HDAC6 inhibition as a realistic novel approach to control CIPN and CICI. This will increase the
+quality of life of millions of cancer patients and survivors. Clinical trials to examine the effect of HDAC6
+inhibitors on tumor control are already underway, and therefore the expected results of this project should
+rapidly convince clinicians to examine the value of HDAC6 inhibitors for management of both CIPN and CICI.
+Identification of HDAC6 inhibitors as drugs that can be used after completion of chemotherapy to completely
+resolve established CIPN and CICI will be of great benefit for cancer survivors suffering every day from
+these persistent neurotoxicities.","366766",
+"Acquired Cognitive Impairment; Biotechnology; Brain Disorders; Cancer; Hematology; Lymphoma; Neurosciences; Orphan Drug; Prevention; Rare Diseases","4 hydroxynonenal;Address;Alpha Cell;Animal Model;Antibodies;Antineoplastic Agents;Antioxidants;Apoptotic;BCL2 gene;Biochemical;Blood - brain barrier anatomy;Blood Circulation;Brain;Brain Injuries;Cancer Patient;Cancer Survivor;Cells;Choline;Clinical;Clinical Trials;Cognition;Confusion;Cytotoxic Chemotherapy;Development;Doxorubicin;Drug Targeting;Drug usage;Etiology;Family;Functional disorder;Future;Generations;Goals;Immune;Impaired cognition;Impairment;In Vitro;Inflammatory;Injury;Intrathecal Chemotherapy;Knockout Mice;Link;Lymphoma;Magnetic Resonance Spectroscopy;Mediating;Mediator of activation protein;Memory;Mitochondria;Modeling;Molecular;Mus;Neuraxis;Neuronal Injury;Nitrates;Oxidation-Reduction;Oxidative Stress;Pathology;Patients;Peripheral;Permeability;Pharmaceutical Preparations;Plasma;Prevention;Production;Proteins;Proteomics;Publishing;Quality of life;Radiation;Reaction;Reactive Oxygen Species;Recommendation;Research;Respiration;Risk;Role;SOD2 gene;Symptoms;Syndrome;Systemic Therapy;TNF gene;Technology;Testing;Therapeutic Effect;Therapeutic Uses;Tissues;Toxic effect;Toxicity due to chemotherapy;Treatment Efficacy;United States;Vision;antioxidant enzyme;cancer cell;cancer therapy;chemobrain;chemotherapy;cytokine;cytotoxic;design;executive function;experience;extracellular vesicles;improved;in vivo;inhibitor/antagonist;insight;macrophage;mimetics;mitochondrial dysfunction;multitask;neuron loss;nitration;novel;prevent;prototype;specific biomarkers;targeted treatment;tumor","(PQ9)A redox-mediated mechanism of chemotherapy-induced cognitive impairment","Project Narrative
+Chemotherapy-induced cognitive impairment (CICI) is a serious threat to the quality of life. This project is
+designed to identify practice-changing therapy by establishing a new paradigm, which recognizes that ROS is
+the initiator of CICI, caused by both cytotoxic and targeted drugs. Results from these studies will lead to very
+concrete information potentially offering a specific course of action to develop effective clinical approaches
+specifically designed to prevent CICI without reducing chemotherapeutic efficacy.","NCI","9363914","9/15/2017 12:00:00 AM","RFA-CA-15-008","1R01CA217934-01","1","R01","CA","217934","01"," ","CHEN, WEIWEI","9/15/2017 12:00:00 AM","7/31/2022 12:00:00 AM","ZCA1-RTRB-E(M2)"," ","3147341","ST CLAIR, DARET K","BONDADA, SUBBARAO ; BUTTERFIELD, D. ALLAN","06","PHARMACOLOGY","939017877","H1HYA8Z1NTM5","939017877","H1HYA8Z1NTM5","US","38.040959","-84.505885","2793601","UNIVERSITY OF KENTUCKY","LEXINGTON","KY","SCHOOLS OF MEDICINE","405260001","UNITED STATES","N","9/15/2017 12:00:00 AM","7/31/2018 12:00:00 AM","395","Non-SBIR/STTR","2017","455149"," ","NCI","297483","157666"," ","Project Summary
+This application addresses the Provocative Question 9: ""What are the molecular and/or cellular mechanisms
+that underlie the development of cancer therapy-induced severe adverse sequelae?"" focusing on
+Chemotherapy-induced cognitive impairments (CICI). CICI is now a recognized toxicity syndrome that includes
+loss of executive function (confusion; memory issues), inability to multitask, and impaired intellectual
+reasoning. While CICI caused by central nervous system (CNS)-directed therapies (such as radiation and
+intrathecal chemotherapy) is readily understood, the mechanisms underlying a critical and shared toxicity of
+chemotherapy that occurs after systemic cancer treatment with drugs that did not direct at the brain, are
+unclear. The number of patients at risk for CICI from systemic therapy far exceeds the number of patients
+exposed to CNS therapy, but little is known about the mechanisms mediating the effect of systemic therapy on
+CICI, and there is no clear vision of how to prevent this condition. We have previously shown that generation
+of reactive oxygen species (ROS) by cytotoxic chemotherapeutic drugs is an essential mediator of brain injury
+even though the drug itself did not get into the brain. It is also imperative to note that anticancer medications,
+designed specifically to target cancer cells with specialized features, such as the family of Bcl2 inhibitors, also
+generate ROS. However, the effect of targeted therapy on CICI has never been addressed, and,
+consequently, their mechanisms of action are entirely unknown. The goal of this proposal is to test the overall
+hypothesis that therapy-induced ROS production in the target tissues leads to increased circulating TNFα
+through extracellular vesicles (EVs)-mediated reactions, and this pro-inflammatory cytokine crosses the blood
+brain barrier to elicit mitochondrial dysfunction and consequent neuronal injury leading to CICI. The following
+specific aims are designed to test the ROS hypothesis, gain an understanding of the EVs-mediated
+mechanisms, and test the proof-of-concept in an experimental cancer therapy setting using two prototype
+chemotherapy agents (Doxorubicin and Venetoclax) that represent standard cytotoxic and experimental
+targeted drugs in a lymphoma model. Aim 1 will investigate the fundamental role of TNFα in therapy-induced
+neuronal injury to gain insights into mechanisms of CICI in the brain and demonstrate efficacy of chemotherapy
+in the presence of redox-active antioxidants. Aim 2 will determine the mechanistic links between circulating
+extracellular vesicles and therapy-induced CICI. Aim 3 will define the cell(s) of origin of TNFα produced during
+chemotherapy that leads to cognitive impairment. These aims will be accomplished in vitro and in vivo using
+state-of-the-art technologies, including magnetic resonance spectroscopy, redox proteomics, unique animal
+models, and novel mitochondria targeting anti-oxidant, MnP, to ameliorate CICI without reducing the efficacy of
+the anti-cancer drugs. The results from this project will lay important groundwork for future clinical trials to
+improve the quality of lives of cancer patients exposed to cytotoxic or targeted therapies.","455149",

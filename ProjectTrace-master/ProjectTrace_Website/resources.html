@@ -1,0 +1,47 @@
+<html class="LSDM_BasePage">
+    <head>
+        <title> Resources </title>
+        <link rel="stylesheet" href="/assets/styles/LSDM.css">
+    </head>
+
+    <body>
+        <!-- [PERSISTENT] Page Header -->
+        <div class="LSDM_Header_Area">
+            <div class="LSDM_Header_Banner">
+                <h1> ProjectTrace </h1>
+            </div>
+
+            <!-- [PERSISTENT] Navigation -->
+            <div class="LSDM_Header_Nav">
+                <a href="./" class="LSDM_Nav_Buttons">              Home  </a>
+                <a href="./results.php" class="LSDM_Nav_Buttons">   Results </a>
+                <a href="./resources.php" class="LSDM_Nav_Buttons"> Resources </a>
+                <a href="./contact.php" class="LSDM_Nav_Buttons">   Contact </a>
+            </div>
+        </div>
+
+        <!-- Page Content -->
+        <div class="LSDM_Body_Subheader">
+            <h2> Resources </h2>
+        </div>
+
+        <div class="LSDM_Body_Content">
+            <?php
+                // Fetch information from database
+                $dblink=new mysqli(/*'host', 'user', 'password', 'database'*/);
+                $sql="SELECT * FROM `resources`";
+                $results=$dblink->query($sql) or die('ERROR: Database query failed.');
+
+                while ($data=$results->fetch_array(MYSQLI_NUM)) {
+                    echo '<div class="LSDM_Resources_List-Top">';
+                    echo '<p> '.$data[0].' </p>';
+                    echo '<p> <a href="'.$data[2].'" target="blank">'.$data[2].'</a> </p>';
+                    echo '</div>';
+                    echo '<div class="LSDM_Resources_List-Bottom">';
+                    echo '<p> '.$data[1].' </p>';
+                    echo '</div>';
+                }
+            ?>
+        </div>
+    </body>
+</html>
