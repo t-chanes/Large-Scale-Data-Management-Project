@@ -1,4 +1,7 @@
 # ProjectTrace
+
+Made in collaboration with Eduardo Trevino, David Albasini, Tharun Karakkatt, and Alfred Vincent at the University of Texas at San Antonio during the 2023 Spring semester. This was created as the final project for our Large Scale Data Management class.
+
 ## Summary
 This project will trace the lifecycle/progress path of the projects funded by the federal agencies.\
 All the teams should maintain a work-log of progress made each week (This will be collected from commits on this github repo)\
